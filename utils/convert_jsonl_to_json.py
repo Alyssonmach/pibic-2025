@@ -42,7 +42,7 @@ if __name__ == "__main__":
     # --- CONFIGURATION ---
     # List of files you want to convert
     files_to_convert = [
-        # "../resources/moondream_generated_reports.jsonl",
+        "../resources/moondream_generated_reports.jsonl",
         "../resources/medgemma_generated_reports.jsonl"
     ]
 
