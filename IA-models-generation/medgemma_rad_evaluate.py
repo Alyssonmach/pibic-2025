@@ -6,22 +6,25 @@ from tqdm import tqdm
 import time
 import json
 import os
-from typing import Dict, Any
+from typing import Dict, Any, Set
 
 # --- 1. Model Initialization ---
-# The model and processor are loaded once, following the user's medgemma.py script.
+# The model and processor are loaded once using memory-efficient settings.
 MODEL_ID = "google/medgemma-4b-pt"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 print(f"Loading model '{MODEL_ID}'...")
 
 try:
+    # Use device_map="auto" to allow accelerate to handle device placement,
+    # and bfloat16 for memory efficiency.
     model = AutoModelForImageTextToText.from_pretrained(
         MODEL_ID,
         dtype=torch.bfloat16,
         device_map="auto",
     )
     processor = AutoProcessor.from_pretrained(MODEL_ID, use_fast=True)
+
     print(f"Model loaded successfully on device '{DEVICE}'.")
 
 except Exception as e:
@@ -43,10 +46,9 @@ def generate_report_for_image(image_path: str, prompt: str) -> str | None:
 
         input_len = inputs["input_ids"].shape[-1]
 
-        # Use torch.inference_mode() for memory efficiency, similar to torch.no_grad().
+        # Use torch.inference_mode() for memory efficiency during generation.
         with torch.inference_mode():
             generation = model.generate(**inputs, max_new_tokens=256, do_sample=False)
-            # Slice the generation to get only the newly generated tokens.
             generation = generation[0][input_len:]
         
         decoded_text = processor.decode(generation, skip_special_tokens=True)
@@ -60,26 +62,47 @@ def generate_report_for_image(image_path: str, prompt: str) -> str | None:
 
 def main():
     """
-    Main function to orchestrate the report generation process.
+    Main function to orchestrate the report generation process, with support for resuming.
     """
     INPUT_CSV = '../resources/cardiac_subsample_150.csv'
-    # Use a different output file for this model's results.
     OUTPUT_FILE = '../resources/medgemma_generated_reports.jsonl'
-    # Use the exact prompt structure from the user's working script.
     GENERATION_PROMPT = "<start_of_image> findings:"
+
+    # --- Resume Logic ---
+    # Check for an existing results file to determine which reports to skip.
+    processed_study_ids: Set[int] = set()
+    if os.path.exists(OUTPUT_FILE):
+        print(f"Found existing results file: '{OUTPUT_FILE}'. Reading to determine progress...")
+        with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
+            for line in f:
+                try:
+                    processed_study_ids.add(json.loads(line)['study_id'])
+                except (json.JSONDecodeError, KeyError):
+                    # Ignore corrupted lines or lines without a study_id
+                    continue 
+        print(f"Found {len(processed_study_ids)} already processed reports. They will be skipped.")
 
     try:
         df = pd.read_csv(INPUT_CSV)
-        print(f"\nLoaded '{INPUT_CSV}' with {len(df)} exams to process.")
+        print(f"\nLoaded '{INPUT_CSV}' with {len(df)} total exams.")
     except FileNotFoundError:
         print(f"Error: Input file '{INPUT_CSV}' not found. Please ensure it is in the correct directory.")
         return
 
-    # Open the output file in append mode ('a') for incremental writing.
+    # Filter out already processed reports to avoid redundant work.
+    df_to_process = df[~df['study_id'].isin(processed_study_ids)]
+    
+    if len(df_to_process) == 0:
+        print("All reports have already been processed. Nothing to do.")
+        return
+        
+    print(f"Resuming generation for the remaining {len(df_to_process)} reports.")
+
+    # --- Generation Loop ---
+    # Open the output file in append mode ('a') to continue adding results.
     with open(OUTPUT_FILE, 'a', encoding='utf-8') as f:
-        print(f"Starting report generation. Results will be saved to '{OUTPUT_FILE}' incrementally.")
-        for _, row in tqdm(df.iterrows(), total=df.shape[0], desc="Generating Reports"):
-            image_path =  "../" + row['image_path']
+        for _, row in tqdm(df_to_process.iterrows(), total=df_to_process.shape[0], desc="Generating Reports"):
+            image_path = "../" + row['image_path']
             
             if not os.path.exists(image_path):
                 continue
@@ -99,11 +122,11 @@ def main():
                     "processing_time_seconds": round(processing_time, 4)
                 }
                 
-                # Write the JSON object as a single line to the file.
+                # Write the new result as a single line and flush to disk immediately.
                 f.write(json.dumps(result_entry, ensure_ascii=False) + '\n')
-                f.flush() # Ensure the result is written to disk immediately.
+                f.flush()
 
-            # Clear GPU cache to prevent memory buildup.
+            # Clear GPU cache to prevent memory fragmentation during the long run.
             if DEVICE == "cuda":
                 torch.cuda.empty_cache()
 
