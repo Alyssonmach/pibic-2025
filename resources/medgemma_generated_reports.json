@@ -1,0 +1,198 @@
+[
+    {
+        "study_id": 52092112,
+        "subject_id": 13516402,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p13/p13516402/s52092112/e105d6e9-fdaeedb8-366c888c-20813a4b-a1f17dc2.jpg",
+        "generated_text_medgemma": "the endotracheal tube is present, the tip lies approximately 2.5 cm above the carina. nasogastric tube extends to the upper stomach, though the side hole is above the esophagogastric junction. there is some increased opacification at the left base. this could represent some volume loss in the left lower lobe. impression: endotracheal tube in satisfactory position. nasogastric tube should be pushed forward several cm.",
+        "processing_time_seconds": 153.6739
+    },
+    {
+        "study_id": 58645265,
+        "subject_id": 15753793,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15753793/s58645265/3b9dc745-afb2e71a-1842f902-83b5bbd2-d89e87b0.jpg",
+        "generated_text_medgemma": "icd is in standard position. cardiac silhouette is enlarged, and is accompanied by pulmonary vascular congestion and moderate pulmonary edema. confluent opacities at the lung bases, particularly in the retrocardiac region. small pleural effusions are present bilaterally.",
+        "processing_time_seconds": 153.18
+    },
+    {
+        "study_id": 54819608,
+        "subject_id": 18379244,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18379244/s54819608/59b83520-80d284ec-be409850-b98b3344-85ed18b6.jpg",
+        "generated_text_medgemma": "there is substantial enlargement of the cardiac silhouette with no evidence of vascular congestion. this discordance raises the possibility of cardiomyopathy or pericardial effusion. single-lead pacer extends to the apex of the right ventricle. no evidence of pneumothorax.",
+        "processing_time_seconds": 155.2174
+    },
+    {
+        "study_id": 56841247,
+        "subject_id": 12737401,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12737401/s56841247/b6675fcd-27e68fc1-34d99c65-0ca4dabd-e6fc5aca.jpg",
+        "generated_text_medgemma": "moderate-to-large right pleural effusion with adjacent atelectasis and/or consolidation in the right middle and right lower lobes. patchy and linear atelectasis at the left base.",
+        "processing_time_seconds": 154.4879
+    },
+    {
+        "study_id": 59812492,
+        "subject_id": 13840464,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p13/p13840464/s59812492/05352959-a5600266-746648e2-5f630326-f75fbef6.jpg",
+        "generated_text_medgemma": "permanent pacemaker is in place with single lead terminating in the right ventricle. marked cardiomegaly is present. the aorta is tortuous and calcified. lungs are clear except for a small calcified granuloma in the right lower lobe. no pleural effusion or acute skeletal finding. impression: marked cardiomegaly without evidence of congestive heart failure.",
+        "processing_time_seconds": 154.1391
+    },
+    {
+        "study_id": 59778943,
+        "subject_id": 12773009,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12773009/s59778943/39f5d86c-75dd1ea4-e4085ab1-be9455e4-da70ef28.jpg",
+        "generated_text_medgemma": "there is a small left pleural effusion with adjacent atelectasis. the right lung is clear. there is no pneumothorax. impression: small left pleural effusion with adjacent atelectasis.",
+        "processing_time_seconds": 154.5593
+    },
+    {
+        "study_id": 50762026,
+        "subject_id": 18367177,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18367177/s50762026/3de8f255-f9e5b8e3-8288f2a7-22628273-f171ffd0.jpg",
+        "generated_text_medgemma": "there is a small right apical pneumothorax. the right pleural effusion is small. the right lung is reexpanded with mild residual atelectasis in the right lower lobe. the left lung is clear. the cardiomediastinal silhouette is stable. impression: small right apical pneumothorax and small right pleural effusion.",
+        "processing_time_seconds": 154.5879
+    },
+    {
+        "study_id": 54024760,
+        "subject_id": 17169964,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17169964/s54024760/8a6a2c3c-1506ab16-b671f7e6-53464651-d36daf19.jpg",
+        "generated_text_medgemma": "widespread heterogeneous opacities are present throughout both lungs, with some apparent cavitation in the right upper lobe. heart size is normal. no pleural effusion or acute skeletal abnormality.",
+        "processing_time_seconds": 160.991
+    },
+    {
+        "study_id": 58992610,
+        "subject_id": 14972430,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14972430/s58992610/bf67038f-e75df8f7-8ffdeb6f-0ede56b6-80b7d039.jpg",
+        "generated_text_medgemma": "there is a large right sided pneumothorax with a lateral component causing partial collapse of the right lung. the left lung is clear.",
+        "processing_time_seconds": 158.3308
+    },
+    {
+        "study_id": 55100873,
+        "subject_id": 18237138,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18237138/s55100873/c48e395d-3a22e1aa-5e5998f2-0c6f1662-729efd62.jpg",
+        "generated_text_medgemma": "there is no visible pneumothorax. diffuse heterogeneous opacities in the mid and lower lungs. small pleural effusions are present bilaterally.",
+        "processing_time_seconds": 151.37
+    },
+    {
+        "study_id": 54512818,
+        "subject_id": 12878814,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12878814/s54512818/7525d306-39275a81-18b7e52f-f62eacf8-6addb595.jpg",
+        "generated_text_medgemma": "bilateral pigtail catheters are in place. small residual effusion and minimal atelectasis. no visible pneumothorax.",
+        "processing_time_seconds": 151.3535
+    },
+    {
+        "study_id": 58538964,
+        "subject_id": 15554519,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15554519/s58538964/ee6cd7b6-571e3ab0-a1aa14c0-1eafef25-e236aaa3.jpg",
+        "generated_text_medgemma": "cardiomegaly is accompanied by pulmonary vascular congestion and interstitial edema. additionally, a more confluent opacity is present in the left retrocardiac region, which may reflect atelectasis and/or consolidation. small pleural effusions are present bilaterally.​",
+        "processing_time_seconds": 152.073
+    },
+    {
+        "study_id": 59379468,
+        "subject_id": 12698376,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12698376/s59379468/eb55774f-2edcb3bb-0c1421f2-83e27214-2845322e.jpg",
+        "generated_text_medgemma": "there is a right lower lobe opacity concerning for pneumonia. there is also a small right pleural effusion. the left lung is clear. there is no pneumothorax. a right pectoral pacemaker is present with leads terminating in the right atrium and right ventricle. impression: right lower lobe opacity concerning for pneumonia.",
+        "processing_time_seconds": 151.0417
+    },
+    {
+        "study_id": 52587305,
+        "subject_id": 10882916,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p10/p10882916/s52587305/8458379f-4f01757b-d0545785-55b5a16a-80d77816.jpg",
+        "generated_text_medgemma": "there is no visible pneumothorax. widespread airspace opacities in the right lung are present. left lung is grossly clear.​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "processing_time_seconds": 150.9837
+    },
+    {
+        "study_id": 53947819,
+        "subject_id": 15626336,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15626336/s53947819/093497a3-bc9d8c92-d5a9e850-9962a4bc-ac9ab4b5.jpg",
+        "generated_text_medgemma": "right picc terminates in the mid superior vena cava. heart is upper limits of normal in size and demonstrates left ventricular configuration. aorta is tortuous and calcified. patchy and linear opacities in the left retrocardiac region with associated volume loss favors atelectasis, but aspiration and infectious pneumonia are additional considerations. small left pleural effusion is present.,",
+        "processing_time_seconds": 151.0325
+    },
+    {
+        "study_id": 52401239,
+        "subject_id": 12287462,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12287462/s52401239/2f537c01-3e3d138c-afe8ebf6-cd77d05a-50c79a2f.jpg",
+        "generated_text_medgemma": "endotracheal tube is present, with tip terminating approximately 3.5 cm above the carina. heart size is normal. linear atelectasis in right upper lobe posteriorly. lungs are otherwise clear., with no new areas of consolidation to suggest the presence of pneumonia.",
+        "processing_time_seconds": 151.0129
+    },
+    {
+        "study_id": 57785352,
+        "subject_id": 18971123,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18971123/s57785352/b85b074d-31e58afc-58f38f64-34dcbef4-53225ad1.jpg",
+        "generated_text_medgemma": "heart size, mediastinal and hilar contours are normal. lungs are grossly clear. no pleural effusion or acute skeletal abnormality. impression: no radiographic evidence of pneumonia.",
+        "processing_time_seconds": 151.009
+    },
+    {
+        "study_id": 59805934,
+        "subject_id": 13659269,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p13/p13659269/s59805934/2d03237b-68775c78-2e345585-ab206ae5-db77e73f.jpg",
+        "generated_text_medgemma": "a large, partially cavitary, multiloculated, right lower lobe and lingular pneumonia.​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​",
+        "processing_time_seconds": 150.9337
+    },
+    {
+        "study_id": 59287561,
+        "subject_id": 15613908,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15613908/s59287561/789a0c58-9b5144ba-188ae5d5-252296ab-1f8990bc.jpg",
+        "generated_text_medgemma": "there are low lung volumes. cardiac size is top normal. there is no pneumothorax. bilateral pleural effusions are small. bibasilar opacities are likely atelectasis. there is no evidence of pulmonary edema. multiple bilateral lung nodules are present.",
+        "processing_time_seconds": 150.9702
+    },
+    {
+        "study_id": 51408396,
+        "subject_id": 15805011,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15805011/s51408396/073692a0-e3eca8f8-b3556a48-6758a75d-c6e3b8d5.jpg",
+        "generated_text_medgemma": "there is enlargement of the cardiac silhouette with some elevation of pulmonary venous pressure. no acute focal pneumonia.​",
+        "processing_time_seconds": 150.9577
+    },
+    {
+        "study_id": 58447217,
+        "subject_id": 15934572,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15934572/s58447217/d5a41740-8ad48775-9a085d71-1846aa9a-46eb041e.jpg",
+        "generated_text_medgemma": "cardiomegaly and pulmonary vascular congestion. patchy and linear atelectasis in the left retrocardiac region.​",
+        "processing_time_seconds": 151.0072
+    },
+    {
+        "study_id": 52667471,
+        "subject_id": 15549843,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15549843/s52667471/22b403e4-b3685617-98003a94-7f34531d-8390557e.jpg",
+        "generated_text_medgemma": "there is a large right-sided pneumothorax with a lateral component. the right lung is partially re-expanded. the cardiomediastinal silhouette is stable. the left lung is clear. impression: large right-sided pneumothorax with a lateral component.",
+        "processing_time_seconds": 150.9882
+    },
+    {
+        "study_id": 54562872,
+        "subject_id": 10038999,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p10/p10038999/s54562872/b731eac3-7eb0b300-94dd4628-a56a3840-e6719380.jpg",
+        "generated_text_medgemma": "indwelling support and monitoring devices are in standard position. cardiomediastinal contours are stable in appearance. bibasilar opacities are present. small right and small-to-moderate left pleural effusions are present.",
+        "processing_time_seconds": 150.9629
+    },
+    {
+        "study_id": 57393701,
+        "subject_id": 14107609,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14107609/s57393701/9affb1b8-b325399a-b007bbd8-954b8a8f-c687513a.jpg",
+        "generated_text_medgemma": "icd is in place with lead terminating in the right ventricle. there is no visible pneumothorax. cardiac silhouette is enlarged, and pulmonary vascularity is normal. impression: no visible pneumothorax.",
+        "processing_time_seconds": 150.9255
+    },
+    {
+        "study_id": 55643217,
+        "subject_id": 17894121,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17894121/s55643217/47d014ff-eede2c01-61e14d7f-10333387-b92ea97d.jpg",
+        "generated_text_medgemma": "the patient is status post previous median sternotomy and coronary artery bypass surgery. cardiac silhouette is upper limits of normal in size. pulmonary vascularity is normal. lungs are grossly clear except for a small calcified granuloma in the left lower lobe. no acute skeletal abnormalities are detected on this chest radiograph examination.",
+        "processing_time_seconds": 151.0386
+    },
+    {
+        "study_id": 56992326,
+        "subject_id": 15748817,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15748817/s56992326/92b54848-9404f32e-a7434e73-c293348d-c33f5c8b.jpg",
+        "generated_text_medgemma": "left picc terminates in the mid superior vena cava. cardiac silhouette is upper limits of normal in size. left retrocardiac opacity is present.",
+        "processing_time_seconds": 150.9701
+    },
+    {
+        "study_id": 59424091,
+        "subject_id": 13085899,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p13/p13085899/s59424091/08d1e687-b84d32a9-fce8a466-743c9a58-dc73509d.jpg",
+        "generated_text_medgemma": "there is a large left pneumothorax with a possible tension component. there is a small right pneumothorax. the cardiomediastinal silhouette is shifted slightly to the right. there is a small left pleural effusion. there is a small amount of subcutaneous emphysema in the left chest wall. impression: large left pneumothorax with possible tension component. small right pneumothorax.",
+        "processing_time_seconds": 157.9655
+    },
+    {
+        "study_id": 55144584,
+        "subject_id": 15934572,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15934572/s55144584/9ffd37c6-34ce202d-4d7d52b0-5d2cf061-90f02ef6.jpg",
+        "generated_text_medgemma": "there is a small right apical pneumothorax. the patient is status post median sternotomy and aortic valve replacement. a left pleural effusion is present, and there is adjacent atelectasis at the left lung base.",
+        "processing_time_seconds": 162.8472
+    }
+]
