@@ -1,0 +1,26 @@
+Loading datasets...
+Data loaded: 39961 training reports, 9886 test reports.
+
+--- Phase 1: Retrieving with model: all-MiniLM-L6-v2 ---
+
+--- Phase 1: Retrieving with model: pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb ---
+
+--- Phase 2: Evaluating with NER model (d4data/biomedical-ner-all) ---
+Loading NER pipeline... (this may take a moment on the first run)
+
+Calculating Jaccard Similarity for MiniLM results...
+
+Calculating Jaccard Similarity for BioBERT results...
+
+
+============================================================
+          FINAL RESULTS (ENTITY EXTRACTION + JACCARD)
+============================================================
+        Average Jaccard Similarity
+MiniLM                      27.37%
+BioBERT                     25.88%
+
+============================================================
+
+Note: 'Average Jaccard Similarity' measures the mean overlap of clinical entities
+between the query report and the retrieved report. Higher values are better.
