@@ -1,0 +1,45 @@
+Downloading 'wordnet' for METEOR calculation...
+
+==================================================
+             EVALUATING MODEL: Moondream
+==================================================
+Found 149 matching reports for evaluation.
+
+Calculating ROUGE-L scores...
+
+Calculating METEOR scores...
+
+Calculating BERTScore...
+calculating scores...
+computing bert embedding.
+computing greedy matching.
+done in 7.12 seconds, 20.93 sentences/sec
+
+Calculating Document Semantic Similarity scores...
+
+==================================================
+             EVALUATING MODEL: MedGemma
+==================================================
+Found 60 matching reports for evaluation.
+
+Calculating ROUGE-L scores...
+
+Calculating METEOR scores...
+
+Calculating BERTScore...
+calculating scores...
+computing bert embedding.
+computing greedy matching.
+done in 2.59 seconds, 23.13 sentences/sec
+
+Calculating Document Semantic Similarity scores...
+
+
+======================================================================
+                        FINAL EVALUATION RESULTS
+======================================================================
+          Avg. ROUGE-L (F1) Avg. METEOR Avg. BERTScore (F1) Avg. Doc Semantic Sim.
+Moondream       12.84%         11.60%          -2.43%               59.02%        
+MedGemma        18.20%         13.93%          11.37%               71.46%        
+
+======================================================================
