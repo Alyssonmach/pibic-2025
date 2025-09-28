@@ -1,0 +1,27 @@
+'../resources/all_data.csv' already exists. Loading it directly.
+
+Targeting ~30 samples for each of the 5 findings.
+
+Searching for 'Cardiomegaly'...
+Found 6984 total matches, 6984 of which are new.
+Adding 30 unique reports for 'Cardiomegaly' to the subsample.
+
+Searching for 'Pulmonary Edema'...
+Found 15700 total matches, 15680 of which are new.
+Adding 30 unique reports for 'Pulmonary Edema' to the subsample.
+
+Searching for 'Congestive Heart Failure (CHF)'...
+Found 1053 total matches, 1052 of which are new.
+Adding 30 unique reports for 'Congestive Heart Failure (CHF)' to the subsample.
+
+Searching for 'Pleural Effusion'...
+Found 37555 total matches, 37480 of which are new.
+Adding 30 unique reports for 'Pleural Effusion' to the subsample.
+
+Searching for 'Atherosclerosis / Atherosclerotic Disease'...
+Found 747 total matches, 745 of which are new.
+Adding 30 unique reports for 'Atherosclerosis / Atherosclerotic Disease' to the subsample.
+
+--------------------------------------------------
+Created a final subsample with 150 unique reports.
+Successfully saved the subsample to '../resources/cardiac_subsample_150.csv'.
