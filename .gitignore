@@ -209,4 +209,4 @@ __marimo__/
 .DS_Store
 
 mimic-cxr-dataset/*
-assets/archive.zip
+resources/archive.zip
