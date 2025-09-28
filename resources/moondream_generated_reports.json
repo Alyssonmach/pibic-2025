@@ -1,0 +1,1045 @@
+[
+    {
+        "study_id": 58645265,
+        "subject_id": 15753793,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15753793/s58645265/3b9dc745-afb2e71a-1842f902-83b5bbd2-d89e87b0.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs and the circulatory system. The radiologist has also noticed the presence of a ventilator, which is connected to the right side of the chest. Additionally, there are two IV (intravenous) catheters, one located in the left chest area and the other in the right chest area. These catheters are connected to the right side of the chest, suggesting that the patient may be receiving medical treatment or monitoring. The radiologist has also noted the presence of a pacemaker, which is located in the right chest area.",
+        "processing_time_seconds": 30.214
+    },
+    {
+        "study_id": 54819608,
+        "subject_id": 18379244,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18379244/s54819608/59b83520-80d284ec-be409850-b98b3344-85ed18b6.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the surrounding blood vessels. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the lower part of the chest, occupying a large portion of the image. The blood vessels, including the arteries and veins, can be seen in the upper part of the chest, extending from the heart to the lungs. The image also includes a portable device, which could be a medical device or a portable scanner, located near the top right corner of the chest.",
+        "processing_time_seconds": 25.7128
+    },
+    {
+        "study_id": 56841247,
+        "subject_id": 12737401,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12737401/s56841247/b6675fcd-27e68fc1-34d99c65-0ca4dabd-e6fc5aca.jpg",
+        "generated_text_moondream": "The radiologist has identified a heart murmur in the chest X-ray. The heart appears to be enlarged, which could indicate a potential issue or condition. The lungs are also visible, but no other specific findings are apparent in the image. The radiologist has used a specific arrow to indicate the location of the heart murmur, which is located to the left of the heart.",
+        "processing_time_seconds": 18.1931
+    },
+    {
+        "study_id": 59812492,
+        "subject_id": 13840464,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p13/p13840464/s59812492/05352959-a5600266-746648e2-5f630326-f75fbef6.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the surrounding blood vessels. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the lower part of the chest, with the right side of the heart being slightly obscured. The blood vessels, including the arteries and veins, can be seen throughout the chest, with the arteries appearing closer to the heart and the veins closer to the lungs. The image is in black and white, which emphasizes the contrast between the different structures and their relative positions.",
+        "processing_time_seconds": 25.0433
+    },
+    {
+        "study_id": 59778943,
+        "subject_id": 12773009,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12773009/s59778943/39f5d86c-75dd1ea4-e4085ab1-be9455e4-da70ef28.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs. The radiologist has also noted the presence of blood vessels, including two visible veins on the right side of the chest. The overall image provides a detailed view of the chest area, allowing the radiologist to assess the health and function of the heart, lungs, and blood vessels.",
+        "processing_time_seconds": 19.1028
+    },
+    {
+        "study_id": 50762026,
+        "subject_id": 18367177,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18367177/s50762026/3de8f255-f9e5b8e3-8288f2a7-22628273-f171ffd0.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs. The lungs are visible in the upper part of the chest, with the right lung being slightly larger than the left one. The radiologist has also noticed the presence of the heart's blood vessels, which are clearly visible in the image. The image provides a detailed view of the chest area, allowing the radiologist to assess the heart, lungs, and other structures in the chest region.",
+        "processing_time_seconds": 22.4798
+    },
+    {
+        "study_id": 54024760,
+        "subject_id": 17169964,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17169964/s54024760/8a6a2c3c-1506ab16-b671f7e6-53464651-d36daf19.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing a heart and lungs. The heart appears to be enlarged and is located in the upper part of the chest. The lungs are also visible, but they are not the main focus of the image. The radiologist has also noticed the presence of blood vessels, specifically the arteries and veins, which are essential for the proper functioning of the heart and lungs. The image provides a detailed view of the chest area, allowing the radiologist to assess the health of the heart and lungs and potentially identify any abnormalities or diseases.",
+        "processing_time_seconds": 23.195
+    },
+    {
+        "study_id": 58992610,
+        "subject_id": 14972430,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14972430/s58992610/bf67038f-e75df8f7-8ffdeb6f-0ede56b6-80b7d039.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart appears to be enlarged and is located in the upper part of the chest. The lungs are also visible, but they are not the main focus of the image. The radiologist has also noticed the presence of blood vessels, specifically the arteries and veins, which are essential for the proper functioning of the heart and lungs. The image provides a detailed view of the chest area, allowing the radiologist to assess the health of the heart and lungs and potentially identify any abnormalities or diseases.",
+        "processing_time_seconds": 23.193
+    },
+    {
+        "study_id": 55100873,
+        "subject_id": 18237138,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18237138/s55100873/c48e395d-3a22e1aa-5e5998f2-0c6f1662-729efd62.jpg",
+        "generated_text_moondream": "The chest X-ray shows a clear view of the heart and lungs, with the heart occupying a significant portion of the chest. The lungs are also clearly visible, indicating that the radiologist has captured a detailed image of the respiratory system. The radiologist has also identified the vasculature, which is the network of blood vessels that supply the heart and lungs. The presence of these structures in the image suggests that the radiologist has successfully captured a comprehensive chest X-ray, providing valuable information about the patient's health.",
+        "processing_time_seconds": 21.8999
+    },
+    {
+        "study_id": 54512818,
+        "subject_id": 12878814,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12878814/s54512818/7525d306-39275a81-18b7e52f-f62eacf8-6addb595.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the blood vessels. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the lower part of the chest, occupying a large portion of the image. The blood vessels, including the arteries and veins, can be seen throughout the chest, with the arteries appearing closer to the top and the veins closer to the bottom. The chest radiographic image provides a clear view of the heart, lungs, and blood vessels, allowing the radiologist to assess the overall health and any potential abnormalities in these areas.",
+        "processing_time_seconds": 25.9768
+    },
+    {
+        "study_id": 58538964,
+        "subject_id": 15554519,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15554519/s58538964/ee6cd7b6-571e3ab0-a1aa14c0-1eafef25-e236aaa3.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart appears to be enlarged, possibly indicating a heart condition or disease. The lungs are also visible, but no other specific details can be determined from the image. The radiologist should carefully analyze the chest X-ray to determine the exact nature of the heart and lung condition, and to provide an accurate diagnosis and appropriate treatment plan for the patient.",
+        "processing_time_seconds": 19.3257
+    },
+    {
+        "study_id": 59379468,
+        "subject_id": 12698376,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12698376/s59379468/eb55774f-2edcb3bb-0c1421f2-83e27214-2845322e.jpg",
+        "generated_text_moondream": "The radiologist has identified a heart pacemaker in the chest X-ray. The pacemaker is located in the upper left part of the chest, close to the heart. The lungs are also visible in the image, but the radiologist does not provide any specific details about their condition or size. The image does not contain any visible blood vessels or other organs, so the radiologist cannot provide any information about the vasculature.",
+        "processing_time_seconds": 19.3563
+    },
+    {
+        "study_id": 52587305,
+        "subject_id": 10882916,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p10/p10882916/s52587305/8458379f-4f01757b-d0545785-55b5a16a-80d77816.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the surrounding blood vessels. The heart is located in the upper left part of the chest, occupying a significant portion of the image. The lungs are visible in the upper right part of the chest, occupying a large portion of the image. The blood vessels, including the arteries and veins, can be seen in the lower right part of the chest. The image also includes a label indicating that the chest is portable, which suggests that the radiologist may have used a portable X-ray machine to capture this image.",
+        "processing_time_seconds": 24.6526
+    },
+    {
+        "study_id": 53947819,
+        "subject_id": 15626336,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15626336/s53947819/093497a3-bc9d8c92-d5a9e850-9962a4bc-ac9ab4b5.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs. The lungs are visible in the upper right section of the image, with the left lung being slightly larger than the right lung. The radiologist has also noted the presence of the thoracic cage, which is the rib cage surrounding the lungs. The image also includes a section of the upper arm, which is likely to be the shoulder joint. The radiologist has also identified a small amount of fat in the upper right area of the chest, which could be a normal part of the body or a potential sign of inflammation or disease.",
+        "processing_time_seconds": 28.0619
+    },
+    {
+        "study_id": 52401239,
+        "subject_id": 12287462,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12287462/s52401239/2f537c01-3e3d138c-afe8ebf6-cd77d05a-50c79a2f.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs and the surrounding body. The radiologist has also noted the presence of blood vessels, including the arteries and veins, which are essential for the proper functioning of the heart and lungs. The image is a portable chest X-ray, which allows for easy transportation and storage, making it suitable for use in various medical settings.",
+        "processing_time_seconds": 23.7646
+    },
+    {
+        "study_id": 57785352,
+        "subject_id": 18971123,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18971123/s57785352/b85b074d-31e58afc-58f38f64-34dcbef4-53225ad1.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs and the ribcage. The radiologist has also noted the presence of multiple blood vessels, including two arteries and two veins, which are essential for the proper functioning of the heart and lungs. The image is a portable chest X-ray, which allows for easy transportation and storage, making it suitable for use in various medical settings.",
+        "processing_time_seconds": 27.6997
+    },
+    {
+        "study_id": 59805934,
+        "subject_id": 13659269,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p13/p13659269/s59805934/2d03237b-68775c78-2e345585-ab206ae5-db77e73f.jpg",
+        "generated_text_moondream": "The chest X-ray shows a close-up view of the heart and lungs, with the heart appearing as a prominent organ in the center of the image. The lungs are visible in the upper part of the chest, and the radiologist can clearly see the intricate details of the heart and its surrounding structures. The image also includes some visible blood vessels, such as the arteries and veins, which are essential for the proper functioning of the heart and lungs. The radiologist's expertise in interpreting this image would be crucial in identifying any potential health issues or abnormalities in the heart and lungs.",
+        "processing_time_seconds": 27.6695
+    },
+    {
+        "study_id": 59287561,
+        "subject_id": 15613908,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15613908/s59287561/789a0c58-9b5144ba-188ae5d5-252296ab-1f8990bc.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the surrounding blood vessels. The heart is located in the center of the chest, occupying a significant portion of the image. The lungs are spread out in the upper part of the chest, occupying a large portion of the image. The blood vessels, including the arteries and veins, are visible throughout the chest, with the arteries appearing closer to the top and the veins closer to the bottom. The image is a portable chest X-ray, which allows for easy transportation and storage of the radiographic data.",
+        "processing_time_seconds": 25.2481
+    },
+    {
+        "study_id": 51408396,
+        "subject_id": 15805011,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15805011/s51408396/073692a0-e3eca8f8-b3556a48-6758a75d-c6e3b8d5.jpg",
+        "generated_text_moondream": "The radiologist has identified a heart murmur in the chest X-ray. The heart appears to be enlarged, which could indicate a potential issue or condition. The lungs are also visible, but no other specific findings are apparent in the image. The radiologist's attention is focused on the heart and lungs, as these are the primary areas of interest in chest X-ray analysis.",
+        "processing_time_seconds": 17.5792
+    },
+    {
+        "study_id": 58447217,
+        "subject_id": 15934572,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15934572/s58447217/d5a41740-8ad48775-9a085d71-1846aa9a-46eb041e.jpg",
+        "generated_text_moondream": "The chest X-ray shows the heart and lungs in a radiographic image. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the lower part of the chest, occupying a smaller portion of the image. The radiologist can also observe the blood vessels, such as the arteries and veins, in the chest area. The image does not provide any specific details about the presence of any other organs or structures in the chest.",
+        "processing_time_seconds": 21.1619
+    },
+    {
+        "study_id": 52667471,
+        "subject_id": 15549843,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15549843/s52667471/22b403e4-b3685617-98003a94-7f34531d-8390557e.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the blood vessels. The heart appears to be enlarged and is located in the upper part of the chest. The lungs are visible in the lower part of the chest, and the blood vessels can be seen in the upper part of the chest. The radiologist has also noted that the spine is curved, which could indicate a possible spinal injury or condition.",
+        "processing_time_seconds": 21.1996
+    },
+    {
+        "study_id": 54562872,
+        "subject_id": 10038999,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p10/p10038999/s54562872/b731eac3-7eb0b300-94dd4628-a56a3840-e6719380.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the vasculature. The heart is located in the center of the chest, surrounded by the lungs, which are spread out to the sides. The radiologist has also noted that there are two wires attached to the chest, which are likely connected to medical equipment or devices used for monitoring or treatment purposes. The chest X-ray provides a clear view of the chest area, allowing the radiologist to assess the overall health and condition of the heart and lungs.",
+        "processing_time_seconds": 24.2144
+    },
+    {
+        "study_id": 57393701,
+        "subject_id": 14107609,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14107609/s57393701/9affb1b8-b325399a-b007bbd8-954b8a8f-c687513a.jpg",
+        "generated_text_moondream": "The radiologist has identified a portable device in the chest X-ray. The device is located near the heart and is connected to the chest cavity. The chest X-ray also shows the lungs and the surrounding blood vessels, including the heart and its valves. The presence of the portable device suggests that the radiologist might be assessing the patient's condition or monitoring their health remotely, which could be helpful in cases where the patient is unable to visit a hospital or clinic for regular check-ups.",
+        "processing_time_seconds": 20.8874
+    },
+    {
+        "study_id": 55643217,
+        "subject_id": 17894121,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17894121/s55643217/47d014ff-eede2c01-61e14d7f-10333387-b92ea97d.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the surrounding blood vessels. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the lower part of the chest, occupying a large portion of the image. The blood vessels, including the arteries and veins, can be seen in the upper part of the chest, extending from the heart to the lungs. The image is in black and white, which emphasizes the contrast between the different structures and their relative positions.",
+        "processing_time_seconds": 22.928
+    },
+    {
+        "study_id": 56992326,
+        "subject_id": 15748817,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15748817/s56992326/92b54848-9404f32e-a7434e73-c293348d-c33f5c8b.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs and the surrounding body. The lungs are clearly visible, indicating that the radiologist has captured the respiratory system in the image. Additionally, the radiologist has noted the presence of the circulatory system, which includes the blood vessels and the heart valves. The image also includes a label indicating that the chest radiographs are portable, which suggests that the radiologist may have captured the chest radiographs during a portable scan.",
+        "processing_time_seconds": 23.3057
+    },
+    {
+        "study_id": 59424091,
+        "subject_id": 13085899,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p13/p13085899/s59424091/08d1e687-b84d32a9-fce8a466-743c9a58-dc73509d.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs. The radiologist has also observed the presence of the rib cage, which is a bony structure that surrounds the lungs and provides support for the upper body. Additionally, the radiologist has identified the lungs, which are the primary organs of the respiratory system. The image also shows the intricate network of blood vessels, including the arteries and veins, which are essential for the proper functioning of the circulatory system. Overall, the radiologist has captured a detailed view of the chest area, highlighting the heart, lungs, and the intricate network of blood vessels.",
+        "processing_time_seconds": 27.8142
+    },
+    {
+        "study_id": 55144584,
+        "subject_id": 15934572,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15934572/s55144584/9ffd37c6-34ce202d-4d7d52b0-5d2cf061-90f02ef6.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs. The radiologist has also noted the presence of the circulatory system, which includes the blood vessels and the heart valves. The image is a portable semi-up X-ray, which means it is a smaller, more portable version of a full-body X-ray. This type of X-ray is often used in portable settings, such as in hospitals or mobile clinics, where larger and more expensive equipment is not available.",
+        "processing_time_seconds": 23.8422
+    },
+    {
+        "study_id": 58558893,
+        "subject_id": 12986731,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12986731/s58558893/9fab01d1-5e26a6ee-d05568db-77ea6b4d-1d360db1.jpg",
+        "generated_text_moondream": "The radiologist has identified a semi-erect chest X-ray, which shows the heart and lungs. The heart is located in the upper part of the chest, while the lungs are visible in the lower part. The radiologist has also noted that the chest is portable, which could indicate that the patient is in a hospital or medical facility where portable X-ray machines are used. The presence of the portable chest X-ray suggests that the radiologist might be assessing the patient's condition or treatment plan, and the chest X-ray could be a part of a larger series of radiographic images to help diagnose or monitor the patient's health.",
+        "processing_time_seconds": 25.9541
+    },
+    {
+        "study_id": 57015276,
+        "subject_id": 15129969,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15129969/s57015276/259fb014-f7e3c11b-e8ea8797-39141ed5-e5ed2d33.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the intricate network of blood vessels. The heart is prominently displayed in the center of the image, surrounded by the lungs, which are located on the right side of the chest. The image also shows the intricate network of blood vessels, including the arteries and veins, which are visible throughout the chest. The radiologist's expertise in interpreting this image would be crucial in identifying any potential health issues or abnormalities in the chest area.",
+        "processing_time_seconds": 21.1195
+    },
+    {
+        "study_id": 54247194,
+        "subject_id": 10737757,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p10/p10737757/s54247194/0de53657-77deda41-55845a03-0ff7f1be-76d90990.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs and the surrounding body. The radiologist has also noted the presence of blood vessels, including the arteries and veins, which are essential for the proper functioning of the heart and lungs. The image provides a detailed view of the chest area, allowing the radiologist to assess the overall health and condition of the heart and lungs.",
+        "processing_time_seconds": 20.1443
+    },
+    {
+        "study_id": 54557759,
+        "subject_id": 19809073,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p19/p19809073/s54557759/429456cf-9c53ac7c-596c3779-e72c1369-84f911b0.jpg",
+        "generated_text_moondream": "The chest X-ray shows a clear view of the heart and lungs, with the heart located in the center of the chest and the lungs spread out on both sides. The radiologist has also labeled the image as portable, indicating that it is a portable chest X-ray. The radiologist's expertise is in interpreting the radiographic findings and identifying any abnormalities or potential issues in the chest area.",
+        "processing_time_seconds": 18.3181
+    },
+    {
+        "study_id": 52827580,
+        "subject_id": 14376085,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14376085/s52827580/232485d6-08a3a6d7-7ba6549d-e4194385-70e73919.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart is located in the center of the chest, occupying a significant portion of the image. The lungs are spread out on both sides of the chest, with the right lung being slightly larger than the left. The image also shows the ribcage, which is a bony structure that surrounds the lungs and heart. The ribcage is visible in the upper part of the chest, providing a clear view of the chest cavity. The radiologist has also identified the vasculature, which is the network of blood vessels that supply the heart and lungs. The image shows the blood vessels branching out in various directions, indicating a healthy circulatory system.",
+        "processing_time_seconds": 29.9194
+    },
+    {
+        "study_id": 57618599,
+        "subject_id": 10207476,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p10/p10207476/s57618599/c27973b5-2c8dff4a-9ea0325f-e51a2d65-889aa224.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart is located in the upper left part of the chest, occupying a significant portion of the image. The lungs are visible in the upper right part of the chest, occupying a smaller portion of the image. The image also shows the spine, which is located in the upper right part of the chest. The radiologist has also identified the vasculature, which is the network of blood vessels that supply the heart and lungs. The image provides a detailed view of the chest and its internal structures, allowing the radiologist to assess the health and condition of the heart and lungs.",
+        "processing_time_seconds": 27.0088
+    },
+    {
+        "study_id": 51048971,
+        "subject_id": 10974611,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p10/p10974611/s51048971/51d287b3-0f4f7122-d4207e7f-b3b1d13b-0df04b7d.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the vasculature. The heart appears to be enlarged, possibly indicating a heart condition or a fluid buildup. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist's analysis of the chest X-ray provides valuable information about the patient's health, which can help guide further medical interventions or treatments.",
+        "processing_time_seconds": 19.9084
+    },
+    {
+        "study_id": 52889656,
+        "subject_id": 15432819,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15432819/s52889656/474a27f9-73d5156c-4f2b1ff2-fb9c3dc3-76806b51.jpg",
+        "generated_text_moondream": "The radiologist has identified several key areas in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs. The lungs are visible in the upper part of the chest, with the right side of the chest showing a distinct curvature. The image also includes the spine, which is located on the right side of the chest. The radiologist has noted the presence of the spine and the curvature of the chest, providing a comprehensive view of the patient's anatomy.",
+        "processing_time_seconds": 21.924
+    },
+    {
+        "study_id": 50436922,
+        "subject_id": 19497735,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p19/p19497735/s50436922/54c06b56-f575d5ef-6957c375-ca963939-8e3bf847.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the circulatory system. The heart is prominently displayed in the center of the chest, surrounded by the lungs, which are located on the left side of the chest. The circulatory system is represented by the blood vessels, including the arteries and veins, which are clearly visible in the image. The radiologist has also labeled the chest as portable, indicating that the patient is likely in a hospital setting or undergoing a medical procedure.",
+        "processing_time_seconds": 22.1399
+    },
+    {
+        "study_id": 54354127,
+        "subject_id": 14957536,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14957536/s54354127/54e636fb-a09b2427-be94fe74-d6a42a2e-f99ed30b.jpg",
+        "generated_text_moondream": "The chest X-ray shows a clear view of the heart and lungs, with the heart prominently displayed in the center of the image. The lungs are also visible, with their structures and surrounding structures clearly visible. The radiologist has used a portable device to capture this image, which allows for easier examination and interpretation of the chest radiographic findings. The presence of the arrow indicates that the radiologist has annotated the image, providing additional information or guidance for the interpretation of the radiographic findings.",
+        "processing_time_seconds": 23.1555
+    },
+    {
+        "study_id": 55459506,
+        "subject_id": 14237047,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14237047/s55459506/719d3783-a0d5cdc6-b76a8aed-8f9c3feb-6e385061.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the internal anatomy of the chest. The heart is located in the center of the chest, occupying a significant portion of the image. The lungs are spread out in the upper part of the chest, occupying a large portion of the image. The internal anatomy of the chest is also visible, with the ribcage and other structures clearly depicted. The radiologist has also noted the presence of a large mass in the chest, which could be a tumor or an irregular growth.",
+        "processing_time_seconds": 23.7789
+    },
+    {
+        "study_id": 56493572,
+        "subject_id": 13010698,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p13/p13010698/s56493572/8a534d47-c4c57bf8-fc0dedc4-e74e83a8-21df7053.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The central focus is on the heart, which is clearly visible in the center of the image. The lungs are also prominently displayed, occupying a significant portion of the image. Additionally, the radiologist has noted the presence of the rib cage and the surrounding bones, providing a comprehensive view of the chest region. The image also includes the spine, which is a crucial part of the human anatomy and can provide valuable information about the patient's overall health.",
+        "processing_time_seconds": 21.7693
+    },
+    {
+        "study_id": 50296905,
+        "subject_id": 17175688,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17175688/s50296905/20944b87-31846e3a-e316076b-2e40a927-5a4d1ff4.jpg",
+        "generated_text_moondream": "The radiologist has identified a heart murmur in the chest X-ray. The heart appears to be enlarged, which could indicate a potential issue or condition. The lungs are also visible, but no other specific findings are apparent in the image. The radiologist has used the arrow to indicate the direction of the heart murmur, which is located towards the left side of the chest.",
+        "processing_time_seconds": 17.3907
+    },
+    {
+        "study_id": 57772885,
+        "subject_id": 18100010,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18100010/s57772885/65ac8531-86d437c7-7a79e5ca-48f25326-8894713c.jpg",
+        "generated_text_moondream": "The radiologist has identified a heart murmur in the chest X-ray. The heart appears to be enlarged, which could indicate a potential issue or condition. The lungs are also visible, but no other specific findings are apparent in the image. The radiologist's attention is drawn to the heart and lungs, as these are the primary areas of interest in chest X-ray analysis.",
+        "processing_time_seconds": 17.2631
+    },
+    {
+        "study_id": 50682327,
+        "subject_id": 13852497,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p13/p13852497/s50682327/1e85ef41-ad7f0599-e3140dbb-fc9e8869-51011031.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, and the lungs are visible on the right side. The radiologist has also noted the presence of the spine and the ribcage, which are essential components of the human body. The image is in black and white, which allows the radiologist to clearly observe the details of the chest and lungs, and to identify any abnormalities or potential issues in the chest area.",
+        "processing_time_seconds": 21.0624
+    },
+    {
+        "study_id": 58031530,
+        "subject_id": 12522208,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12522208/s58031530/286acc13-5b6bdf1c-fb26e806-03d116db-217d1e29.jpg",
+        "generated_text_moondream": "In the chest X-ray, the radiologist has captured a detailed view of the heart, lungs, and the surrounding blood vessels. The heart is prominently displayed in the center of the chest, occupying a significant portion of the image. The lungs are visible on the right side of the chest, with the ribcage surrounding them. The radiologist has also identified the blood vessels, including the arteries and veins, which are clearly visible in the chest area. The image provides a comprehensive view of the chest region, allowing the radiologist to assess the overall health and condition of the heart and lungs.",
+        "processing_time_seconds": 24.4707
+    },
+    {
+        "study_id": 52587544,
+        "subject_id": 14021217,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14021217/s52587544/d45fa24b-5685c175-92c8178d-35af9686-eb35bef3.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the cardiovascular system. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the lower part of the chest, occupying a large portion of the image. The radiologist has also noted the presence of a blood vessel, which could be a blood vessel or a blood clot, in the upper part of the chest. The image is a portable chest X-ray, which allows for easy transportation and storage of the radiographic images.",
+        "processing_time_seconds": 23.8289
+    },
+    {
+        "study_id": 50357969,
+        "subject_id": 16074678,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p16/p16074678/s50357969/715e225f-ee3432de-3ffc1c81-f3830dc3-dd036edf.jpg",
+        "generated_text_moondream": "The chest X-ray shows a clear view of the heart and lungs, with the heart prominently displayed in the center of the image. The lungs are also visible, with their intricate network of air sacs and bronchioles clearly depicted. The radiologist can also observe the blood vessels, including the arteries and veins, which are essential for the proper functioning of the heart and lungs. The image is labeled as portable, indicating that it can be easily transported and used for diagnosis or treatment purposes.",
+        "processing_time_seconds": 21.0697
+    },
+    {
+        "study_id": 54835549,
+        "subject_id": 17784248,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17784248/s54835549/aae52a85-c649d84f-259ed747-f3477538-6c1588ca.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the vasculature. The heart appears to be enlarged, possibly indicating a heart condition or disease. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist's analysis of the chest X-ray provides valuable information about the patient's health, which can help guide further medical interventions or treatments.",
+        "processing_time_seconds": 18.9122
+    },
+    {
+        "study_id": 52031422,
+        "subject_id": 12479159,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12479159/s52031422/a0719d56-df689033-a079f5bf-ba4383ec-73528559.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs. The lungs are spread out in various directions, indicating the presence of airways and alveoli. The radiologist has also noted the presence of the circulatory system, which includes the heart, blood vessels, and the blood itself. The image is labeled as a portable chest X-ray, suggesting that it can be easily transported and used for diagnosis or treatment purposes.",
+        "processing_time_seconds": 22.0121
+    },
+    {
+        "study_id": 55505783,
+        "subject_id": 17165725,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17165725/s55505783/e7823ea3-2a18fea9-0615ac46-91568ffb-8c40324e.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the circulatory system. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the lower part of the chest, occupying a large portion of the image. The circulatory system is represented by the blood vessels, which can be seen in the upper part of the chest. The image also includes a label indicating that it is a portable supine chest X-ray, which suggests that the radiologist may have used a portable X-ray machine to capture the image.",
+        "processing_time_seconds": 25.0589
+    },
+    {
+        "study_id": 55114489,
+        "subject_id": 18203607,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18203607/s55114489/9999c40b-a3003d8a-ba752c91-1ef441dc-b5aa71bb.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the vasculature. The heart is located in the upper left part of the chest, occupying a significant portion of the image. The lungs are visible in the upper right part of the chest, and the radiologist has also noticed the presence of the spine in the upper right corner of the image. The image is in black and white, which helps to emphasize the anatomical structures and their relative positions.",
+        "processing_time_seconds": 20.4602
+    },
+    {
+        "study_id": 50568690,
+        "subject_id": 10159435,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p10/p10159435/s50568690/66d70639-e7619eda-e418b302-846aa313-4a32c5f8.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs. The lungs are visible in the upper part of the chest, occupying a significant portion of the image. Additionally, the radiologist has noted the presence of the rib cage, which is a bony structure that surrounds the lungs and heart. The rib cage is clearly visible in the image, providing a clear view of the chest area. The radiologist has also identified the vasculature, which is the network of blood vessels that supply the heart and lungs. This information is crucial for understanding the overall health and functioning of the heart and lungs in the patient.",
+        "processing_time_seconds": 28.2168
+    },
+    {
+        "study_id": 56348200,
+        "subject_id": 11551927,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p11/p11551927/s56348200/f1a3ae15-64eb7bef-b1e1044b-0ea81258-011b486b.jpg",
+        "generated_text_moondream": "The chest X-ray shows a close-up view of the heart and lungs. The heart is prominently displayed in the center of the image, occupying a significant portion of the chest area. The lungs are also visible, with their intricate network of air sacs and blood vessels clearly visible. The radiologist can observe the intricate details of the heart and lungs, providing valuable information about the patient's health and any potential issues that may require further investigation or treatment.",
+        "processing_time_seconds": 19.8358
+    },
+    {
+        "study_id": 55389720,
+        "subject_id": 16006682,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p16/p16006682/s55389720/4c61bb70-019d0558-27046826-9217a388-96b2a627.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the lower part of the chest, occupying a large portion of the image. The radiologist has also noticed the presence of blood vessels, specifically the arteries and veins, which are essential for the proper functioning of the heart and lungs. The image provides a clear view of the chest area, allowing the radiologist to analyze the heart and lungs in detail.",
+        "processing_time_seconds": 22.8769
+    },
+    {
+        "study_id": 58742754,
+        "subject_id": 16724062,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p16/p16724062/s58742754/33b3e780-3dd151b1-47ad8c93-4583e2d9-bc156767.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs and the circulatory system. The radiologist has also noted the presence of a ventilator, which is connected to the patient's body via tubes. The image is in black and white, which helps to emphasize the contrast between the different structures and their relative positions. The radiologist has also labeled the image as \"Upright Portable,\" indicating that the chest X-ray is a portable and easily transportable radiographic image.",
+        "processing_time_seconds": 24.1263
+    },
+    {
+        "study_id": 56358684,
+        "subject_id": 10373824,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p10/p10373824/s56358684/7b467e5f-d75e743f-97a5e73c-a83538c4-77295e36.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart appears to be enlarged, possibly indicating a heart condition or disease. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist has also noted the presence of a blood vessel, which could be a sign of an underlying medical condition or injury. The image does not provide any information about the vasculature, such as the presence of blood vessels or any abnormalities.",
+        "processing_time_seconds": 21.2162
+    },
+    {
+        "study_id": 57551524,
+        "subject_id": 16454913,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p16/p16454913/s57551524/8ee230fb-931d53c1-2196647e-0a6e3371-b8818a5d.jpg",
+        "generated_text_moondream": "The radiologist has identified a portable supine in the chest X-ray. The chest X-ray shows the heart and lungs, with the portable supine located in the upper right area of the chest. The radiologist has also noted that there are multiple wires or tubes present in the chest, which could be related to the portable supine or other medical devices. The presence of these wires or tubes suggests that the chest X-ray might be related to a medical condition or treatment involving the heart, lungs, or circulatory system.",
+        "processing_time_seconds": 22.9156
+    },
+    {
+        "study_id": 55876474,
+        "subject_id": 17297649,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17297649/s55876474/579de905-cbaabe54-4b92e336-ca4bc056-a8b876f2.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the surrounding blood vessels. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the lower part of the chest, with the right lung being slightly larger than the left. The blood vessels, including the arteries and veins, can be seen throughout the chest, with the arteries appearing closer to the heart and the veins closer to the lungs. The image also includes a small piece of paper with a symbol, possibly a medical symbol or code, which is not directly related to the chest X-ray.",
+        "processing_time_seconds": 26.0152
+    },
+    {
+        "study_id": 51048118,
+        "subject_id": 15564338,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15564338/s51048118/026415e9-ecbff199-40b35e8d-024d3a35-8408b94c.jpg",
+        "generated_text_moondream": "The chest X-ray shows a close-up view of the heart and lungs. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the lower part of the chest, occupying a large portion of the image. The radiologist can clearly see the intricate details of the heart and lungs, which are essential for assessing the overall health of the patient. The image also shows the ribcage, which is a crucial part of the body's skeletal structure, providing support and protection to the internal organs.",
+        "processing_time_seconds": 23.4233
+    },
+    {
+        "study_id": 52501759,
+        "subject_id": 11881943,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p11/p11881943/s52501759/dc3c091e-f803ee53-029b2906-988b0d31-2ab5a2e0.jpg",
+        "generated_text_moondream": "The radiologist has identified a heart murmur in the chest X-ray. The heart appears to be enlarged, which could indicate a potential issue or condition. The lungs are also visible, but no other specific findings are apparent in the image. The radiologist should consider further examination and consultation with other medical professionals to determine the exact nature of the heart murmur and any associated risks or treatments.",
+        "processing_time_seconds": 17.7353
+    },
+    {
+        "study_id": 53341157,
+        "subject_id": 11962176,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p11/p11962176/s53341157/6dd83521-7d902ba5-70ee5cc5-aa183b25-9d3ddbe8.jpg",
+        "generated_text_moondream": "In the chest X-ray, the radiologist has identified the heart, lungs, and some of the blood vessels. The heart is located in the center of the chest, occupying a significant portion of the image. The lungs are spread out in the upper part of the chest, with the right lung being slightly larger than the left. The blood vessels, including the arteries and veins, can be seen in the lower part of the chest, with the arteries appearing closer to the heart and the veins appearing closer to the lungs. The radiologist has also identified the spine, which is located in the middle of the chest, and the shoulder, which is on the right side of the chest.",
+        "processing_time_seconds": 27.4234
+    },
+    {
+        "study_id": 54926034,
+        "subject_id": 17131451,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17131451/s54926034/20740937-fabf42f3-9d2a58a7-765ab186-aa82081d.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs. The lungs are visible in the upper right section of the image, and the chest cavity is also visible in the lower right section. The radiologist has also noted the presence of blood vessels, including the arteries and veins, which are essential for the proper functioning of the heart and lungs. The image provides a detailed view of the chest region, allowing the radiologist to assess the overall health and condition of the heart and lungs.",
+        "processing_time_seconds": 23.8211
+    },
+    {
+        "study_id": 54760653,
+        "subject_id": 17846957,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17846957/s54760653/0b3595df-0a95d334-2862fa53-60dcccd9-fc4f9453.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs. The lungs are visible in the upper part of the chest, occupying a significant portion of the X-ray image. Additionally, the radiologist has noted the presence of the heart's blood vessels, which are clearly visible in the chest. The image also includes a small amount of bone, which is not the primary focus of the radiologist's analysis. Overall, the radiologist has identified the heart, lungs, and blood vessels in the chest, providing a comprehensive view of the patient's anatomy.",
+        "processing_time_seconds": 26.2599
+    },
+    {
+        "study_id": 54963806,
+        "subject_id": 15621186,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15621186/s54963806/17a9fd42-baa19249-0e5b0736-0775240c-251febf3.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the surrounding blood vessels. The heart is located in the center of the chest, occupying a significant portion of the image. The lungs are spread out in the upper part of the chest, occupying a large portion of the image. The blood vessels, including the arteries and veins, are visible in the lower part of the chest, extending from the heart to the lungs. The image also includes a small arrow pointing upwards, which could indicate a specific area of interest or a direction of the radiologist's attention during the examination.",
+        "processing_time_seconds": 24.4868
+    },
+    {
+        "study_id": 57933100,
+        "subject_id": 11888614,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p11/p11888614/s57933100/8f21f008-08a83591-c104c6ca-3bc4abf9-5a9a7ccb.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart appears to be enlarged, possibly indicating a heart condition or a fluid buildup. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist may need to analyze additional information or consult with other medical professionals to make a more accurate diagnosis.",
+        "processing_time_seconds": 16.9397
+    },
+    {
+        "study_id": 55924810,
+        "subject_id": 17051420,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17051420/s55924810/8295e173-6d31b9c4-8c6fa027-f5a5c225-7190d5c7.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing a heart and lungs. The heart appears to be enlarged, possibly indicating a heart condition or disease. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist has also noticed the presence of blood vessels, which could be related to the heart or lungs. The image is in black and white, which emphasizes the contrast between the different structures and their shapes.",
+        "processing_time_seconds": 19.8075
+    },
+    {
+        "study_id": 54869070,
+        "subject_id": 14381313,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14381313/s54869070/39a0981e-d0a1aac5-8748c517-aa190a5c-90514c29.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the surrounding blood vessels. The heart is located in the upper left part of the chest, occupying a significant portion of the image. The lungs are visible in the upper right part of the chest, and the blood vessels can be seen in the lower right part of the chest. The image is in black and white, which emphasizes the contrast between the different structures and their relative positions. The presence of a portable arrow in the image suggests that the radiologist might be pointing to a specific area or detail within the chest X-ray.",
+        "processing_time_seconds": 24.9299
+    },
+    {
+        "study_id": 51086598,
+        "subject_id": 11051985,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p11/p11051985/s51086598/08a9df35-94d834ce-8607cab1-d280e98d-fd6b4ff5.jpg",
+        "generated_text_moondream": "In the chest X-ray, the radiologist has identified the heart, lungs, and some of the blood vessels. The heart is located in the center of the chest, occupying a significant portion of the image. The lungs are spread out in the upper part of the chest, with the right lung being slightly larger than the left. The blood vessels are visible in the lower part of the chest, with the right arm and the left arm having distinct blood vessels. The image also shows a small amount of white smoke or haze, which could be a result of the radiologist's interpretation of the radiographic data.",
+        "processing_time_seconds": 24.8543
+    },
+    {
+        "study_id": 59329901,
+        "subject_id": 18121111,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18121111/s59329901/9b12fb2c-a03311d8-1b08f750-62b11b71-d587f9f9.jpg",
+        "generated_text_moondream": "The chest X-ray shows a large shadow in the upper right area, which could be a part of the heart or lungs. The shadow appears to be a result of a foreign object, possibly a metal object, lodged in the chest cavity. The radiologist should carefully examine the shadow to determine its origin and potential impact on the patient's health. The presence of the shadow indicates that the chest X-ray is an important diagnostic tool for the radiologist to identify any abnormalities or issues in the chest area.",
+        "processing_time_seconds": 21.4874
+    },
+    {
+        "study_id": 54058678,
+        "subject_id": 15446959,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15446959/s54058678/68adee87-49f72ff4-e7374407-bc547b35-ff118ba2.jpg",
+        "generated_text_moondream": "The radiologist has identified a heart and lung scan in the chest X-ray. The heart appears to be enlarged, possibly indicating a heart condition or disease. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist has also noticed the presence of a small air bubble in the lung, which could be a result of a medical procedure or an indication of a lung disease. The image does not provide enough information to determine the exact cause of the heart and lung condition.",
+        "processing_time_seconds": 21.8449
+    },
+    {
+        "study_id": 53798332,
+        "subject_id": 16635089,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p16/p16635089/s53798332/9e3aacd7-c00ac58b-06d8df7e-b0e2fb35-04b4272b.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the blood vessels. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the middle of the chest, with the right side of the chest showing the right side of the lungs. The blood vessels are depicted in the lower part of the chest, with the left side of the chest showing the left side of the blood vessels. The image is in black and white, which emphasizes the contrast between the different structures in the chest.",
+        "processing_time_seconds": 23.688
+    },
+    {
+        "study_id": 59326831,
+        "subject_id": 10297774,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p10/p10297774/s59326831/0c1faac7-6d20c061-189af80d-7844bfbb-92ff7109.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the surrounding blood vessels. The heart is located in the upper left part of the chest, and the lungs are visible in the upper right area. The blood vessels are depicted in the lower right section of the chest, with the arteries and veins clearly visible. The radiologist has also noted the presence of a catheter, which is a thin, flexible tube used for medical purposes, such as delivering medication or monitoring blood flow.",
+        "processing_time_seconds": 21.3688
+    },
+    {
+        "study_id": 53009845,
+        "subject_id": 11184688,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p11/p11184688/s53009845/4ac7eaab-c1f74b87-48b3b0e3-7136a6ef-1b407166.jpg",
+        "generated_text_moondream": "The radiologist has identified a heart pacemaker in the chest X-ray. The pacemaker is located near the center of the chest and is connected to the heart by a wire. The lungs are also visible in the image, but the radiologist does not provide any specific details about their condition or size. The image does not provide enough information to determine the presence of any other medical devices or structures in the chest.",
+        "processing_time_seconds": 18.412
+    },
+    {
+        "study_id": 59550994,
+        "subject_id": 10426710,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p10/p10426710/s59550994/11605e34-e3f95983-847f4e2c-1c79d9e6-bd389452.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the surrounding blood vessels. The heart is located in the upper left part of the chest, and the lungs are spread out in the upper right area. The blood vessels are visible in the lower right section of the chest, with the carotid artery and the brachial artery clearly visible. The radiologist has also noted the presence of a portable device, which is likely a piece of medical equipment used for imaging or monitoring the patient's condition.",
+        "processing_time_seconds": 22.1803
+    },
+    {
+        "study_id": 50470210,
+        "subject_id": 11009622,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p11/p11009622/s50470210/622d43f3-7b99ffd4-ec4606ec-d2480a14-99b584fb.jpg",
+        "generated_text_moondream": "The radiologist has identified a semi-erect portable chest X-ray, which shows the heart, lungs, and the surrounding blood vessels. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the lower part of the chest, with the right side of the chest being more prominent. The blood vessels, including the arteries and veins, can be seen throughout the chest area, with the arteries appearing closer to the heart and the veins closer to the lungs. The radiologist has also noted a small object near the top right corner of the chest, which could be a medical device or a part of the patient's body.",
+        "processing_time_seconds": 27.5331
+    },
+    {
+        "study_id": 53341960,
+        "subject_id": 18408877,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18408877/s53341960/36b21fd0-2a1e183b-a2b457a3-0501b7ec-803633ac.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart appears to be enlarged, possibly indicating a heart condition or disease. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist has also noted the presence of the spine, which is a part of the body's central support structure. The image is in black and white, which is a common format for chest X-rays to provide a clear contrast between the different structures within the body.",
+        "processing_time_seconds": 22.0438
+    },
+    {
+        "study_id": 53260092,
+        "subject_id": 15805011,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15805011/s53260092/89798b7d-d56bc959-e267b9af-d576b606-96f5c199.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the lower part of the chest, occupying a large portion of the image as well. The radiologist has also noticed the presence of the rib cage, which is the bony framework that surrounds the lungs and heart. The rib cage is clearly visible in the image, providing a clear view of the chest area. The radiologist has also identified the vasculature, which is the network of blood vessels that supply the heart and lungs. This includes the arteries and veins that carry blood throughout the body. The radiologist has noted the presence of the carotid artery and the aorta, which are major blood vessels that supply the heart and lungs. The image also shows the carotid artery on the left side of the chest and the aorta on the right side.",
+        "processing_time_seconds": 37.5699
+    },
+    {
+        "study_id": 52362227,
+        "subject_id": 19840128,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p19/p19840128/s52362227/55eb6815-1303938d-f3c78707-da2ee75c-4e3f6685.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart is located in the upper left quadrant of the image, occupying a significant portion of the chest area. The lungs are spread out in the upper right quadrant, occupying a large portion of the chest area as well. The image also shows the ribcage and the surrounding vasculature, which is a network of blood vessels that supply the heart and lungs. The radiologist has noted the presence of a large white spot in the chest, which could be a sign of inflammation, infection, or other medical conditions.",
+        "processing_time_seconds": 24.791
+    },
+    {
+        "study_id": 52820740,
+        "subject_id": 14247006,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14247006/s52820740/1555dd61-ad1ffc87-90205907-535ef26f-e8fd5f81.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the surrounding blood vessels. The heart appears to be enlarged, possibly due to a medical condition or an infection. The lungs are visible, but no significant abnormalities are detected. The radiologist has also noticed a device attached to the chest, which could be a portable medical device or a piece of medical equipment. The presence of this device suggests that the patient might be undergoing a medical procedure or receiving treatment in a portable setting.",
+        "processing_time_seconds": 21.2104
+    },
+    {
+        "study_id": 57924182,
+        "subject_id": 18315163,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18315163/s57924182/8d8d7046-d16e7fa3-cdc4ac3f-3cefb13e-d4791e9f.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs and the ribcage. The radiologist has also noticed the presence of a blood vessel, which could be a blood vessel or a blood clot. The image provides a detailed view of the chest area, allowing the radiologist to assess the overall health and condition of the heart, lungs, and the surrounding structures.",
+        "processing_time_seconds": 22.3941
+    },
+    {
+        "study_id": 52318010,
+        "subject_id": 14123600,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14123600/s52318010/67288975-6e2ae85a-d6a7180e-aa5686a3-51e90cb4.jpg",
+        "generated_text_moondream": "The chest X-ray shows a clear view of the heart and lungs, with the heart prominently displayed in the center of the image. The lungs are also visible, with their intricate network of airways and alveoli clearly depicted. The radiologist has also identified the presence of a portable supine, which is a type of medical device used to monitor and support patients with heart failure. The image provides a detailed view of the chest area, allowing the radiologist to assess the health of the heart and lungs and potentially detect any abnormalities or issues that may require further evaluation or treatment.",
+        "processing_time_seconds": 24.0772
+    },
+    {
+        "study_id": 58397621,
+        "subject_id": 16897590,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p16/p16897590/s58397621/1c4a3584-110813be-f04b8aa2-188ec14d-e74397f2.jpg",
+        "generated_text_moondream": "The radiologist has identified a portable lung cancer in the chest X-ray. The image shows the lungs and the heart, with the heart located in the upper part of the chest. The radiologist has also noted the presence of a small amount of fluid in the lungs, which could be indicative of inflammation or other respiratory issues. The chest radiographic image provides a clear view of the lungs and the heart, allowing the radiologist to accurately diagnose and monitor the progression of the cancer.",
+        "processing_time_seconds": 20.6373
+    },
+    {
+        "study_id": 53335559,
+        "subject_id": 16081144,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p16/p16081144/s53335559/daf7b15a-8b5001ae-1719c8f5-a9b1505b-a9e4d6fc.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the vasculature. The heart is located in the upper left quadrant of the image, occupying a significant portion of the chest area. The lungs are spread out in the upper right quadrant, and the vasculature is visible in the lower right quadrant. The radiologist has also drawn an arrow pointing upwards, which could indicate a specific focus or direction of the radiographic examination.",
+        "processing_time_seconds": 20.3854
+    },
+    {
+        "study_id": 55984905,
+        "subject_id": 11607177,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p11/p11607177/s55984905/787fcdc0-1d4ff68c-1113574e-590e67af-4eac4c3d.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the blood vessels. The heart is located in the upper left part of the chest, and the lungs are visible in the upper right area. The blood vessels can be seen in the lower right section of the chest. The presence of a catheter in the chest suggests that the radiologist might be examining the patient's heart function or monitoring the flow of blood through the vessels.",
+        "processing_time_seconds": 19.7089
+    },
+    {
+        "study_id": 58487257,
+        "subject_id": 19291122,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p19/p19291122/s58487257/f5d93ecf-caa7fe7f-dcd9e615-d57eee6d-98c8a1a0.jpg",
+        "generated_text_moondream": "The chest X-ray shows a clear view of the heart and lungs, with the heart prominently displayed in the center of the image. The lungs are also visible, with their structures and surrounding structures clearly visible. The radiologist can identify the presence of the heart and lungs, as well as the blood vessels, which are essential for the proper functioning of the cardiovascular system. The image does not provide any information about the presence of any other organs or structures in the chest.",
+        "processing_time_seconds": 20.0119
+    },
+    {
+        "study_id": 59002306,
+        "subject_id": 14634884,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14634884/s59002306/a3099dac-83ebdd54-76edd085-8cd89bb9-0ce4cd21.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the surrounding blood vessels. The heart appears to be enlarged, possibly indicating a heart condition or an irregular heartbeat. The lungs are visible, but no specific details about their condition can be determined from the image. The radiologist has also noted that the chest is portable, which could suggest that the patient is being transported for further examination or treatment.",
+        "processing_time_seconds": 18.6292
+    },
+    {
+        "study_id": 57535131,
+        "subject_id": 17637467,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17637467/s57535131/e80f9afe-33e6f7c6-09765fbc-1c6b4d51-90862f52.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart appears to be enlarged, which could indicate a heart condition or an irregular heartbeat. The lungs are also visible, but no significant abnormalities are detected. The radiologist has also noted the presence of blood vessels, including the arteries and veins, which are essential for proper blood circulation. The chest X-ray is a portable image, which means it can be easily transported and shared with other healthcare professionals for consultation and diagnosis.",
+        "processing_time_seconds": 21.0275
+    },
+    {
+        "study_id": 59120332,
+        "subject_id": 16196296,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p16/p16196296/s59120332/892cd678-e1980838-26201336-658a93c3-01cac963.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart appears to be enlarged, possibly indicating a heart condition or disease. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist has also noticed the presence of blood vessels, which could be related to the heart or lungs. The image does not provide enough information to determine the exact nature of the condition or the severity of the findings.",
+        "processing_time_seconds": 20.2953
+    },
+    {
+        "study_id": 58745281,
+        "subject_id": 12598063,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12598063/s58745281/1c198039-e912ab3a-1ccaf258-e171ea63-72b35d50.jpg",
+        "generated_text_moondream": "The radiologist has identified several key areas in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs. The lungs are visible in the upper part of the chest, with the right side of the chest showing a distinct shadow. The radiologist has also noticed the presence of the circulatory system, which includes the blood vessels and the heart valves. The image provides a detailed view of the chest area, allowing the radiologist to analyze the structure and function of the heart, lungs, and other related structures.",
+        "processing_time_seconds": 23.1178
+    },
+    {
+        "study_id": 58150781,
+        "subject_id": 18006988,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18006988/s58150781/32fec7df-3f8c47d1-e8d6ca7f-722b25fb-c18f5b20.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart is located in the center of the chest, occupying a significant portion of the image. The lungs are spread out on both sides of the chest, occupying a large portion of the image. The radiologist has also noticed the presence of the rib cage, which is the bony framework that surrounds the lungs and heart. The rib cage is visible in the upper part of the chest, providing a clear view of the chest cavity. The image also includes some white areas, which could be the result of bone, tissue, or air bubbles in the chest cavity. These areas are likely to be the lungs and heart, as they are the primary structures being examined in this chest X-ray.",
+        "processing_time_seconds": 30.1936
+    },
+    {
+        "study_id": 50975916,
+        "subject_id": 12547577,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12547577/s50975916/17adf708-2cf34743-26a482c7-d0160af7-46c8f7d7.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs and the circulatory system. The radiologist has also noted the presence of several blood vessels, including arteries and veins, which are essential for the proper functioning of the circulatory system. The image is a portable chest X-ray, which allows for easy transportation and storage of the radiographic data, making it convenient for use in various medical settings.",
+        "processing_time_seconds": 21.1531
+    },
+    {
+        "study_id": 50897416,
+        "subject_id": 14256999,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14256999/s50897416/4caa4909-0991fb7b-4ff59286-3aeceda8-87b70840.jpg",
+        "generated_text_moondream": "The radiologist has identified several key areas in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs. The lungs are visible in the upper part of the chest, with the right side of the chest showing a distinct shadow. The radiologist has also noticed the presence of the circulatory system, which includes the blood vessels and the heart valves. The image provides a detailed view of the chest area, allowing the radiologist to analyze the structure and function of the heart, lungs, and other related structures.",
+        "processing_time_seconds": 22.9902
+    },
+    {
+        "study_id": 58506834,
+        "subject_id": 16720812,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p16/p16720812/s58506834/04395c14-16a01372-e9650708-45319021-331498ac.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The central focus is on the heart, which is clearly visible in the center of the image. The lungs are also prominently displayed, occupying a significant portion of the image. Additionally, the radiologist has noted the presence of the circulatory system, specifically the blood vessels, which can be seen in the chest area. The image provides a detailed view of the chest region, allowing the radiologist to assess the overall health and condition of the heart and lungs.",
+        "processing_time_seconds": 22.1073
+    },
+    {
+        "study_id": 57975760,
+        "subject_id": 14954046,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14954046/s57975760/a10146f7-ac95b614-c9e9b600-6385e6a2-07e65995.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the blood vessels. The heart is located in the upper left part of the chest, and the lungs are visible in the upper right area. The blood vessels can be seen in the lower right section of the chest. The presence of a portable device in the chest suggests that the radiologist might be using it for further examination or treatment. The chest X-ray provides a clear view of the heart, lungs, and blood vessels, allowing the radiologist to assess the overall health and any potential issues or abnormalities.",
+        "processing_time_seconds": 24.1645
+    },
+    {
+        "study_id": 52030252,
+        "subject_id": 15809646,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15809646/s52030252/2921058d-a6fb076d-8bb4de0c-d43e5b8d-1e91708a.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the vasculature. The heart is located in the center of the chest, surrounded by the lungs, which are spread out to the sides. The radiologist has also noted that there are two wires attached to the chest, which are likely connected to medical equipment for monitoring or treatment purposes. The chest X-ray provides a clear view of the chest area, allowing the radiologist to assess the health of the heart and lungs, as well as any potential issues or abnormalities in the chest region.",
+        "processing_time_seconds": 23.6806
+    },
+    {
+        "study_id": 51016200,
+        "subject_id": 18083755,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18083755/s51016200/761613e1-a3aff75f-e273d8a1-dfe3e14d-8765b0f4.jpg",
+        "generated_text_moondream": "The chest X-ray shows a clear view of the heart and lungs, with the heart prominently displayed in the center of the image. The lungs are also visible, occupying a significant portion of the chest area. The radiologist can clearly see the intricate details of the heart and lungs, which are essential for diagnosing any potential health issues or abnormalities. The presence of a wire or tube in the chest area suggests that the radiologist might be using a portable device to capture this image, which is a common practice in radiology for its convenience and ease of use.",
+        "processing_time_seconds": 23.2053
+    },
+    {
+        "study_id": 54397268,
+        "subject_id": 14505714,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14505714/s54397268/a2d04bcb-c878cda8-5ffc07d4-0160cca6-ff6eef7f.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs. The lungs are visible in the upper right section of the image, and the chest cavity is also visible in the lower right section. The radiologist has also noticed the presence of blood vessels, including two arteries and two veins, which are essential for the proper functioning of the heart and lungs. The presence of these vessels indicates that the image is a chest X-ray, which is a common diagnostic tool used by radiologists to assess the health of the heart and lungs.",
+        "processing_time_seconds": 25.3731
+    },
+    {
+        "study_id": 53311031,
+        "subject_id": 16514111,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p16/p16514111/s53311031/04cf350f-4ffb9b45-5d2d06ca-3d14237e-90cf8618.jpg",
+        "generated_text_moondream": "The chest X-ray shows a close-up view of the heart and lungs. The heart appears to be enlarged, possibly due to a medical condition or an infection. The lungs are visible, but the radiologist cannot determine the exact condition of the lungs from the image. The radiologist can also observe the blood vessels, such as the arteries and veins, which are essential for the proper functioning of the heart and lungs. The presence of a portable device in the image suggests that the radiologist may be using advanced imaging techniques to capture detailed images of the chest area.",
+        "processing_time_seconds": 23.27
+    },
+    {
+        "study_id": 53315692,
+        "subject_id": 11167924,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p11/p11167924/s53315692/4469d99f-ed3629c1-b185f41d-a6cbd370-44e13b52.jpg",
+        "generated_text_moondream": "The chest X-ray shows a close-up view of the heart and lungs. The heart is located in the center of the chest, and the lungs are spread out to the sides. The radiologist can clearly see the intricate details of the heart and lungs, which are essential for diagnosing any potential health issues. The presence of the radiologist's annotations and the labeled \"PORTABLE\" indicate that this image is part of a larger medical imaging series, which is typically used to monitor and diagnose various health conditions.",
+        "processing_time_seconds": 21.7382
+    },
+    {
+        "study_id": 53066503,
+        "subject_id": 19497735,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p19/p19497735/s53066503/79cbc659-fac6f4d4-007ba5d2-b2c408fb-278dc6cf.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the blood vessels. The heart is located in the upper left part of the chest, occupying a significant portion of the image. The lungs are visible in the upper right part of the chest, and the blood vessels can be seen in the lower right part of the chest. The image is in black and white, which emphasizes the contrast between the different structures in the chest.",
+        "processing_time_seconds": 19.6306
+    },
+    {
+        "study_id": 55125259,
+        "subject_id": 17910941,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17910941/s55125259/2a4799a3-096012d7-8950301f-7e26c346-45c81616.jpg",
+        "generated_text_moondream": "In the chest X-ray image, the radiologist has identified the heart, lungs, and some of the blood vessels. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the lower part of the chest, occupying a large portion of the image. The radiologist has also noticed the presence of blood vessels, which are depicted as thin lines or structures in the image. These blood vessels are likely the arteries and veins that supply and drain blood from the heart and lungs, respectively. The radiologist's analysis of this chest X-ray provides valuable information about the overall health and functioning of the heart and lungs.",
+        "processing_time_seconds": 27.1881
+    },
+    {
+        "study_id": 53416175,
+        "subject_id": 10969957,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p10/p10969957/s53416175/55edbf26-86e1dde0-439ccc58-4eb3e6c7-9c9f27fd.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the blood vessels. The heart appears to be enlarged, possibly indicating a heart condition or a tumor. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist's analysis of the chest X-ray provides valuable information about the patient's health, which can help guide further medical interventions or monitoring.",
+        "processing_time_seconds": 18.9461
+    },
+    {
+        "study_id": 58858468,
+        "subject_id": 13473495,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p13/p13473495/s58858468/2c306616-b3005c87-d05f4dd6-a7f274c1-e15bf2a1.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the lower part of the chest, occupying a large portion of the image. The image also shows the chest cavity, which includes the heart, lungs, and other structures such as the blood vessels and the circulatory system. The radiologist has also noted that the image is portable, which means it can be easily moved or transported without any damage.",
+        "processing_time_seconds": 22.8062
+    },
+    {
+        "study_id": 59686569,
+        "subject_id": 16382419,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p16/p16382419/s59686569/5a805e49-8c8e0145-2a8de63b-f4bb5402-de58a985.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart appears to be slightly enlarged, and the lungs are clearly visible. The radiologist has also noticed the presence of blood vessels, which are depicted as thin lines in the image. The chest X-ray provides a detailed view of the heart and lungs, allowing the radiologist to assess the overall health and condition of the patient's cardiovascular system.",
+        "processing_time_seconds": 18.8602
+    },
+    {
+        "study_id": 58995456,
+        "subject_id": 10364180,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p10/p10364180/s58995456/2d0f476e-7b664cc3-60cd9a9a-012429f2-2f38f3a6.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the cardiovascular system. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the lower part of the chest, occupying a large portion of the image. The cardiovascular system is represented by the blood vessels, including the arteries and veins, which are clearly visible in the chest area. The image also includes a label indicating that the chest X-ray is a portable AP image, which suggests that the radiologist may have used a portable X-ray machine to capture the image.",
+        "processing_time_seconds": 25.2861
+    },
+    {
+        "study_id": 50606234,
+        "subject_id": 18279430,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18279430/s50606234/dfa540a8-55b7cf5a-960ca9c5-1110567d-57aa1364.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs and the circulatory system. The radiologist has also noted the presence of multiple blood vessels, including the arteries and veins, which are essential for the proper functioning of the heart and lungs. The image provides a detailed view of the chest area, allowing the radiologist to assess the overall health and condition of the heart, lungs, and circulatory system.",
+        "processing_time_seconds": 21.3647
+    },
+    {
+        "study_id": 54951871,
+        "subject_id": 10209390,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p10/p10209390/s54951871/f58b5e3e-ad2b58f9-48dd2aca-ebda383d-7af4abb1.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing a heart and lungs. The heart appears to be enlarged, possibly indicating a heart condition or disease. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist has labeled the chest X-ray as portable, which suggests that the image is easily accessible and can be used for diagnosis or treatment purposes.",
+        "processing_time_seconds": 18.1051
+    },
+    {
+        "study_id": 53274082,
+        "subject_id": 11434374,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p11/p11434374/s53274082/92febdaf-9bfad264-19ca2763-5815ed5f-d9af80ff.jpg",
+        "generated_text_moondream": "The chest X-ray shows a clear view of the heart and lungs, with the heart prominently displayed in the center of the image. The lungs are also visible, with their intricate network of airways and alveoli clearly depicted. The radiologist can also observe the blood vessels, including the arteries and veins, which are essential for the proper functioning of the heart and lungs. The image is a portable chest X-ray, which allows for easy transportation and storage of the radiographic data.",
+        "processing_time_seconds": 21.0123
+    },
+    {
+        "study_id": 53054551,
+        "subject_id": 16047857,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p16/p16047857/s53054551/361e8dde-7f4b0d9d-c0cd9faf-0bed6405-a702f889.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the intricate network of blood vessels. The heart is prominently displayed in the center of the image, surrounded by the lungs, which are located on the left side. The image also shows the intricate network of blood vessels, including the arteries and veins, which are visible in the chest area. The radiologist's expertise in interpreting this image would be crucial in identifying any potential health issues or abnormalities in the heart, lungs, and blood vessels.",
+        "processing_time_seconds": 21.8081
+    },
+    {
+        "study_id": 56998062,
+        "subject_id": 15934572,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15934572/s56998062/32ade3f5-b4e4d625-76ffdc84-d7c77c29-3d115ab5.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the blood vessels. The heart appears to be enlarged, which could indicate a heart condition or other health issue. The lungs are also visible, but no specific details about their condition can be determined from the image. The blood vessels are present, but no further information about their structure or function can be provided. The radiologist's analysis of the chest X-ray is essential for understanding the patient's health status and determining the appropriate course of treatment or further diagnostic tests.",
+        "processing_time_seconds": 22.6903
+    },
+    {
+        "study_id": 51250233,
+        "subject_id": 13150052,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p13/p13150052/s51250233/7da88428-41454487-78f054a8-8fe1f558-7db1de82.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the surrounding blood vessels. The heart is located in the center of the chest, surrounded by the lungs, which are spread out to the sides. The blood vessels, including the arteries and veins, are also visible in the image. The radiologist has noted that the heart and lungs appear to be functioning normally, and the blood vessels seem to be in good condition. The presence of the portable device in the image suggests that this chest X-ray could be used for portable diagnosis or monitoring of patients in various medical settings.",
+        "processing_time_seconds": 24.5113
+    },
+    {
+        "study_id": 50757369,
+        "subject_id": 12773009,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12773009/s50757369/5ca31c1f-666513d7-0551690a-63d62b06-9967a5fd.jpg",
+        "generated_text_moondream": "The chest X-ray shows a clear view of the heart and lungs, with the heart prominently displayed in the center of the image. The lungs are also visible, occupying a significant portion of the chest area. The radiologist has marked the heart with an arrow, indicating its location and possibly providing a better understanding of its size and position. The image also includes a label that reads \"PORTABLE AP,\" which might be a description or indication of the specific part of the chest being examined.",
+        "processing_time_seconds": 20.7302
+    },
+    {
+        "study_id": 56261240,
+        "subject_id": 15355458,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15355458/s56261240/62ad6583-bb2250af-8958e964-9be68403-e7c7931f.jpg",
+        "generated_text_moondream": "The chest X-ray shows a close-up view of the heart and lungs. The heart appears to be enlarged, possibly due to a medical condition or an infection. The lungs are visible, but the radiologist cannot determine the exact condition of the lungs from the image. The image also includes a description of the radiologist's findings, indicating that the radiologist is pointing to a specific area of the chest. The radiologist's description includes the term \"portable\" and \"semi-erect,\" which might be related to the positioning of the chest and the radiologist's interpretation of the image.",
+        "processing_time_seconds": 24.9416
+    },
+    {
+        "study_id": 53336051,
+        "subject_id": 17925184,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17925184/s53336051/cfd3d2cf-71deb38a-34481826-b42715d2-4fe14f7b.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart is located in the upper left quadrant of the image, while the lungs are in the upper right quadrant. The image also includes several blood vessels, such as the carotid artery, aorta, and veins, which are visible in the chest area. The presence of these blood vessels indicates that the radiologist has captured a comprehensive view of the chest region, providing valuable information about the heart and lungs' health and any potential issues or abnormalities.",
+        "processing_time_seconds": 22.8254
+    },
+    {
+        "study_id": 56964290,
+        "subject_id": 11093194,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p11/p11093194/s56964290/25f65f6a-04fa9e4e-4e8ead83-83c30205-6deabac9.jpg",
+        "generated_text_moondream": "The chest X-ray shows a close-up view of the heart and lungs. The heart appears to be enlarged, possibly indicating a heart condition or disease. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist should carefully analyze the radiographic findings to identify any abnormalities or potential health issues related to the heart and lungs.",
+        "processing_time_seconds": 17.3503
+    },
+    {
+        "study_id": 56599839,
+        "subject_id": 15619921,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15619921/s56599839/ea3f9cea-230cb9a4-f7551f19-cdf2484e-64b39530.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs and the circulatory system. The radiologist has also noted the presence of multiple blood vessels, including arteries and veins, which are essential for the proper functioning of the heart and lungs. The image provides a detailed view of the chest area, allowing the radiologist to assess the overall health and condition of the heart, lungs, and circulatory system.",
+        "processing_time_seconds": 21.2079
+    },
+    {
+        "study_id": 58219265,
+        "subject_id": 14421594,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14421594/s58219265/d839d7f7-1223907c-0b644e6d-c8e7bf6a-cc676956.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart appears to be enlarged, possibly indicating a heart condition or disease. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist has also noticed the presence of blood vessels, which could be related to the heart or lungs. The image does not provide enough information to determine the exact nature of the condition or the severity of the findings.",
+        "processing_time_seconds": 20.2536
+    },
+    {
+        "study_id": 56508921,
+        "subject_id": 18957964,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18957964/s56508921/676b5b6e-671e3637-44626032-2a60f323-caa43450.jpg",
+        "generated_text_moondream": "The chest X-ray shows a close-up view of the heart and lungs. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the lower part of the chest, occupying a large portion of the image. The image also includes the lungs' intricate network of blood vessels, which are clearly visible. The radiologist can observe the intricate network of blood vessels, providing valuable information about the health and function of the lungs and heart.",
+        "processing_time_seconds": 21.306
+    },
+    {
+        "study_id": 58630233,
+        "subject_id": 10267709,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p10/p10267709/s58630233/161005db-9014c45b-f26f26b2-e514d432-2941c1bf.jpg",
+        "generated_text_moondream": "The radiologist has identified a heart murmur in the chest X-ray. The heart appears to be enlarged, which could indicate a potential issue or condition. The lungs are also visible in the image, but no other specific findings are apparent. The radiologist should closely examine the chest X-ray to determine the exact nature of the heart murmur and any associated health concerns.",
+        "processing_time_seconds": 17.0863
+    },
+    {
+        "study_id": 54700428,
+        "subject_id": 13912710,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p13/p13912710/s54700428/50dddbf2-10298ab3-28c9b16e-0cc12a50-d1e60a4c.jpg",
+        "generated_text_moondream": "The chest X-ray shows a close-up view of the heart and lungs. The heart appears to be enlarged, possibly indicating a heart condition or a tumor. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist would need to analyze the radiographic details further, such as the presence of any abnormal structures or signs of inflammation, to provide a more accurate diagnosis and treatment plan.",
+        "processing_time_seconds": 19.336
+    },
+    {
+        "study_id": 53456377,
+        "subject_id": 11607177,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p11/p11607177/s53456377/16c1485d-88755c33-01ec68d9-1c5e1529-038d7ac3.jpg",
+        "generated_text_moondream": "The chest X-ray shows a close-up view of the heart and lungs, with the heart prominently displayed in the center of the image. The lungs are visible in the upper part of the chest, and the heart is situated in the lower part of the chest. The image also includes a few wires, which could be related to the heart or other medical devices. The presence of these wires suggests that the radiologist might be examining the chest for any abnormalities or issues related to the heart, lungs, or circulatory system.",
+        "processing_time_seconds": 22.0442
+    },
+    {
+        "study_id": 55820829,
+        "subject_id": 18123897,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18123897/s55820829/ef7c1917-5eef2fcd-5bd2130f-b50df672-5bb8b6e9.jpg",
+        "generated_text_moondream": "The radiologist has identified several key areas in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs and the circulatory system. The radiologist has also labeled the chest as a semi-erect and a portable, indicating the possible positioning of the heart and lungs. The image provides a clear view of the chest's anatomy, allowing the radiologist to analyze the heart, lungs, and blood vessels in detail.",
+        "processing_time_seconds": 20.1985
+    },
+    {
+        "study_id": 56091033,
+        "subject_id": 19601036,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p19/p19601036/s56091033/7d56725f-e93a69e2-0ffe8a5a-f8c54eeb-76f19b12.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs and the circulatory system. The radiologist has also noticed the presence of a ventilator, which is likely connected to the patient's lungs, indicating a possible respiratory issue or an ongoing medical procedure. The image is a portable chest X-ray, which means it can be easily moved and used in different settings, such as hospitals or clinics, to provide quick and accurate diagnosis of various medical conditions.",
+        "processing_time_seconds": 23.0013
+    },
+    {
+        "study_id": 51352155,
+        "subject_id": 17435345,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17435345/s51352155/a893a2ec-9d045fb9-c27fb8e3-06a47cc7-0893f01c.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing a heart and lungs. The heart appears to be enlarged, possibly indicating a heart condition or disease. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist has also noticed the presence of blood vessels, which could be related to the heart or lungs. The image does not provide enough information to determine the exact nature of the heart or lungs, but it does show the presence of these vital organs in the chest area.",
+        "processing_time_seconds": 22.0527
+    },
+    {
+        "study_id": 58740603,
+        "subject_id": 14260816,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14260816/s58740603/b5e9bee2-cd70e573-cf362610-80a13ee2-2e376787.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs. The lungs are spread out in the upper part of the chest, with the heart positioned between them. The radiologist has also noticed the presence of the rib cage, which is a bony structure that surrounds the lungs and heart. The rib cage is visible in the lower part of the image, providing a clear view of the chest area. Additionally, the radiologist has identified the vasculature, which is the network of blood vessels that supply the heart and lungs. This includes the arteries and veins that carry blood throughout the body. The radiologist has also noticed the presence of a small amount of fat in the chest area, which is a normal component of the human body.",
+        "processing_time_seconds": 32.4114
+    },
+    {
+        "study_id": 56810665,
+        "subject_id": 19057052,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p19/p19057052/s56810665/62b2e362-a40ff908-b7a747b4-991c96c3-47f75126.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the vasculature. The heart is located in the upper left part of the chest, occupying a significant portion of the image. The lungs are spread across the chest, with the right lung being slightly larger than the left one. The image also shows the ribcage, which is a bony structure that surrounds the lungs and heart. The ribcage is visible in the upper right part of the chest, extending from the left side of the image to the right. The radiologist has also labeled the chest as \"portable\" and \"semi-erect,\" indicating that the chest is likely a portable radiographic image and that the upper right part of the chest is semi-erect, meaning that the ribcage is not fully extended.",
+        "processing_time_seconds": 32.7931
+    },
+    {
+        "study_id": 57370735,
+        "subject_id": 13110537,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p13/p13110537/s57370735/10a44a48-332f314c-98d24df6-613ebea9-455941a5.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the lower part of the chest, occupying a large portion of the image. The image also shows the ribcage and other surrounding structures, such as the spine and the vessels. The radiologist has noted the presence of a large amount of fluid in the lungs, which could indicate inflammation or fluid accumulation. The image is a black and white radiographic, which is a common format for chest X-rays.",
+        "processing_time_seconds": 24.7247
+    },
+    {
+        "study_id": 54811972,
+        "subject_id": 13800851,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p13/p13800851/s54811972/14bfd60a-91bb0c87-c92c0834-7ef2d32b-db2f2e92.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the surrounding blood vessels. The heart is located in the upper left part of the chest, occupying a significant portion of the image. The lungs are visible in the upper right part of the chest, and the blood vessels can be seen in the lower right part of the chest. The radiologist has also noted a small hole in the center of the chest, which could be a result of a medical condition or an injury.",
+        "processing_time_seconds": 21.2939
+    },
+    {
+        "study_id": 52339858,
+        "subject_id": 14376085,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14376085/s52339858/70d081a6-e325514f-ca16cf3e-0319366b-93d22c52.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the surrounding blood vessels. The heart appears to be enlarged, possibly indicating a heart condition or disease. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist has labeled the chest X-ray as \"portable,\" which suggests that the image is a portable radiographic image that can be easily transported and used for diagnosis or treatment purposes.",
+        "processing_time_seconds": 20.3726
+    },
+    {
+        "study_id": 54758745,
+        "subject_id": 17547554,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17547554/s54758745/adb06c4e-e18a9148-fa469d6b-736e0585-346427de.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the surrounding blood vessels. The heart is located in the center of the chest, surrounded by the lungs, which are spread out to the sides. The blood vessels, including the arteries and veins, are visible throughout the chest area. The presence of the arrow indicates that the radiologist has annotated the image, possibly highlighting specific areas of interest or providing additional information about the radiographic findings.",
+        "processing_time_seconds": 20.1922
+    },
+    {
+        "study_id": 52510492,
+        "subject_id": 15294749,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15294749/s52510492/b399c018-aac5e342-4d6b1c34-119a28d7-10d02bff.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart appears to be enlarged, possibly indicating a heart condition or disease. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist has also noticed the presence of blood vessels, which could be related to the heart or lungs. The image does not provide enough information to determine the exact nature of the condition or the severity of the findings.",
+        "processing_time_seconds": 20.31
+    },
+    {
+        "study_id": 55344375,
+        "subject_id": 12080376,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12080376/s55344375/1f4c7467-6442dc2e-9072993c-0cf70f6a-d40f73d9.jpg",
+        "generated_text_moondream": "The chest X-ray shows a close-up view of the heart and lungs. The heart appears to be enlarged and is located in the upper left part of the image. The lungs are visible in the upper right area of the image. The image also includes some blood vessels, such as the carotid artery and the aorta, which are located in the upper right and left parts of the chest, respectively. The radiologist can observe the intricate details of the heart and lungs, providing valuable information about the patient's health condition.",
+        "processing_time_seconds": 22.6027
+    },
+    {
+        "study_id": 53078312,
+        "subject_id": 17909251,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17909251/s53078312/751f76e2-b4ddc056-1c2454fd-d82db6e3-9aa9ff9c.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the vasculature. The heart appears to be enlarged, possibly indicating a heart condition or disease. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist's expertise in interpreting chest X-rays would be crucial in identifying any potential issues or abnormalities in the lungs and heart.",
+        "processing_time_seconds": 18.5029
+    },
+    {
+        "study_id": 54160074,
+        "subject_id": 17261065,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17261065/s54160074/40282473-c98c9d2c-03db33c1-73109991-4a6bed35.jpg",
+        "generated_text_moondream": "The radiologist has identified a heart pacemaker in the chest X-ray. The pacemaker is located near the center of the chest and is surrounded by a network of wires, indicating that it is connected to the heart and likely monitors the heart's electrical activity. The lungs are also visible in the image, but the radiologist does not provide any specific details about their condition or any other findings.",
+        "processing_time_seconds": 17.8976
+    },
+    {
+        "study_id": 50718037,
+        "subject_id": 10591267,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p10/p10591267/s50718037/ec694bf6-eb66f346-cf6576ba-b3da4f2e-25cdd6c6.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the cardiovascular system. The heart is located in the center of the chest, occupying a significant portion of the image. The lungs are spread out on both sides of the chest, with the right lung being slightly larger than the left. The image also shows the cardiovascular system, which includes the blood vessels and the heart valves. The radiologist has noted that the heart valves are not functioning properly, which could indicate a potential issue with the heart's function or structure.",
+        "processing_time_seconds": 22.6532
+    },
+    {
+        "study_id": 52044034,
+        "subject_id": 12095120,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12095120/s52044034/3f15aec1-3871ca6b-4662c813-051deabe-25800fd4.jpg",
+        "generated_text_moondream": "The chest X-ray shows a close-up view of the heart and lungs. The heart appears to be enlarged, possibly due to a medical condition or an infection. The lungs are also visible, but they seem to be in good condition. The radiologist can observe the intricate details of the heart and lungs, which are essential for diagnosing and understanding the patient's health condition. The presence of a blood vessel in the chest also indicates that the radiologist is examining the cardiovascular system.",
+        "processing_time_seconds": 20.8209
+    },
+    {
+        "study_id": 56815063,
+        "subject_id": 19014190,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p19/p19014190/s56815063/c90c5251-7c0914c6-111f4926-c8a283d3-98cc94c3.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the cardiovascular system. The heart is located in the upper left quadrant of the image, occupying a significant portion of the chest area. The lungs are spread out in the upper right quadrant, with the right lung being slightly larger than the left one. The cardiovascular system is represented by the blood vessels, which are clearly visible in the center of the chest. The image also includes a label indicating that the chest X-ray is portable, suggesting that it can be easily moved or transported for further analysis or treatment.",
+        "processing_time_seconds": 24.4518
+    },
+    {
+        "study_id": 52669373,
+        "subject_id": 19302735,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p19/p19302735/s52669373/4d4530ec-247edb16-22096546-4b506b52-ffca9102.jpg",
+        "generated_text_moondream": "The radiologist has identified several key areas in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs. The lungs are visible in the upper part of the chest, with the right side of the chest showing a clear view of the lungs. The image also shows the spine, with the vertebrae clearly visible, and the ribcage, which is a part of the skeletal structure. The radiologist has also noticed the presence of blood vessels, including the arteries and veins, which are essential for the proper functioning of the heart and lungs. Overall, the radiologist has identified various structures and areas in the chest, providing a comprehensive view of the patient's anatomy.",
+        "processing_time_seconds": 28.6572
+    },
+    {
+        "study_id": 54811074,
+        "subject_id": 12783356,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p12/p12783356/s54811074/842873d4-6079aa16-780e8035-7a73361c-a0203509.jpg",
+        "generated_text_moondream": "The chest X-ray shows a close-up view of the heart and lungs. The heart appears to be enlarged and is located in the upper part of the chest. The lungs are visible in the lower part of the chest, and the radiologist can clearly see the intricate details of the heart and lungs. The image also shows the intricate network of blood vessels, including the arteries and veins, which are essential for the proper functioning of the heart and lungs. The radiologist's expertise in interpreting this image would be crucial in diagnosing any potential health issues or abnormalities in the chest area.",
+        "processing_time_seconds": 24.1534
+    },
+    {
+        "study_id": 57575798,
+        "subject_id": 16289699,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p16/p16289699/s57575798/94a00ea1-47ddcfc9-b481e5b8-f1028662-48a2eabd.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing a heart and lungs. The heart appears to be enlarged and is located in the upper part of the chest. The lungs are visible in the lower part of the chest, and the radiologist has also noticed the presence of a blood vessel, possibly an artery or vein, near the heart. The image is in black and white, which emphasizes the contrast between the different structures in the chest.",
+        "processing_time_seconds": 19.3461
+    },
+    {
+        "study_id": 51805387,
+        "subject_id": 13417577,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p13/p13417577/s51805387/ac36d183-e10c0a6e-d7f6bf29-1aa1a53e-22c36474.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the circulatory system. The heart is prominently displayed in the center of the chest, surrounded by the lungs, which are located on the left side of the chest. The radiologist has also noted the presence of a blood vessel, specifically an artery, in the chest area. The image is in black and white, which emphasizes the contrast between the different structures and their relative positions in the chest.",
+        "processing_time_seconds": 20.4328
+    },
+    {
+        "study_id": 59917547,
+        "subject_id": 15154432,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15154432/s59917547/4d71837b-ecfacf04-9397a4f7-b39b8daa-2e1f693d.jpg",
+        "generated_text_moondream": "The radiologist has identified several key findings in the chest X-ray. The heart appears to be enlarged, which could indicate a heart condition or an irregular heartbeat. The lungs are also visible, but no significant abnormalities are detected. The radiologist has also noted the presence of blood vessels, specifically the arteries and veins, which are essential for the proper functioning of the heart and lungs. The presence of these vessels in the chest X-ray suggests that the radiologist has captured a comprehensive view of the chest region, providing valuable information about the patient's overall health.",
+        "processing_time_seconds": 23.2157
+    },
+    {
+        "study_id": 50978721,
+        "subject_id": 11975330,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p11/p11975330/s50978721/39098e7e-3a9c4569-854aee06-eb69268b-1d4edb9a.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the vasculature. The heart appears to be enlarged, possibly indicating a heart condition or an irregular heartbeat. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist's analysis of the chest X-ray provides valuable information about the patient's health, which can help guide further medical interventions or treatments.",
+        "processing_time_seconds": 19.2611
+    },
+    {
+        "study_id": 59737110,
+        "subject_id": 18326030,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18326030/s59737110/ec8935f9-2dbb1f97-7fad7a1d-f8f36f56-0ce768db.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the blood vessels. The heart is located in the upper left part of the chest, occupying a significant portion of the image. The lungs are spread across the chest, with the right lung being slightly larger than the left. The blood vessels are visible in the chest, with the carotid artery on the left side and the aorta on the right side. The image also includes a label indicating that the chest radiologist is referring to this chest radiograph as a portable ap.",
+        "processing_time_seconds": 23.5147
+    },
+    {
+        "study_id": 51313327,
+        "subject_id": 13305035,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p13/p13305035/s51313327/101213f0-c6920dad-866d5b67-9a434956-536440a6.jpg",
+        "generated_text_moondream": "The radiologist has identified a semi-erect chest X-ray, which shows the heart and lungs. The heart is located in the upper part of the chest, occupying a significant portion of the image. The lungs are visible in the lower part of the chest, occupying a large portion of the image. The image also shows the body's blood vessels, including the arteries and veins, which are depicted as thin lines. The radiologist has noted that the image is portable, which means it can be easily transported and used for diagnosis or treatment purposes.",
+        "processing_time_seconds": 22.8946
+    },
+    {
+        "study_id": 53317472,
+        "subject_id": 17755234,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p17/p17755234/s53317472/3b8d09d5-d2d54c58-d1e6ae4e-0c01e7d3-58da73f8.jpg",
+        "generated_text_moondream": "The radiologist has identified a heart murmur in the chest X-ray. The heart appears to be enlarged, which could indicate a potential issue or condition. The lungs are also visible, but no other specific findings are apparent in the image. The radiologist should consider further examination and consultation with other medical professionals to determine the exact nature of the heart murmur and any associated risks or treatments.",
+        "processing_time_seconds": 17.7041
+    },
+    {
+        "study_id": 53567366,
+        "subject_id": 10558918,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p10/p10558918/s53567366/70c46f37-076abbe8-813742a3-85ba93f5-822fec36.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing a heart and lungs. The heart appears to be enlarged, possibly indicating a heart condition or disease. The lungs are also visible, but no specific details about their condition can be determined from the image. The radiologist has also noted the presence of a blood vessel, which could be a sign of an underlying medical condition or an indication of a surgical procedure. The chest X-ray provides a comprehensive view of the heart, lungs, and blood vessels, allowing the radiologist to assess the patient's overall health and potential issues.",
+        "processing_time_seconds": 23.8088
+    },
+    {
+        "study_id": 57986565,
+        "subject_id": 18483037,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p18/p18483037/s57986565/e961189a-f9966f07-09a21246-a638be17-2b5b0af3.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart and lungs. The heart is located in the upper left part of the chest, occupying a significant portion of the image. The lungs are visible in the upper right part of the chest, occupying a smaller portion of the image. The image also shows the ribcage and spine, which are part of the body's skeletal structure. The radiologist has also noted the presence of blood vessels, specifically the arteries and veins, which are crucial for the proper functioning of the heart and lungs. The image provides a detailed view of the chest area, allowing the radiologist to assess the health and condition of the heart and lungs.",
+        "processing_time_seconds": 27.1836
+    },
+    {
+        "study_id": 57107770,
+        "subject_id": 14749066,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14749066/s57107770/0c972388-ae1da0f5-901866a5-9b39d4a6-f467d2d5.jpg",
+        "generated_text_moondream": "The radiologist has identified several key areas in the chest X-ray. The heart is prominently displayed in the center of the image, surrounded by the lungs. The lungs are visible in the upper part of the chest, with the spine clearly visible in the middle. The image also shows the intricate network of blood vessels, including the arteries and veins, which are essential for the proper functioning of the heart and lungs. The radiologist's analysis of these areas can provide valuable insights into the patient's overall health and any potential issues or abnormalities that may require further investigation or treatment.",
+        "processing_time_seconds": 23.4954
+    },
+    {
+        "study_id": 58697534,
+        "subject_id": 15502354,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p15/p15502354/s58697534/2d8a9e04-764df426-cd1a2af9-72d4ffbd-54326750.jpg",
+        "generated_text_moondream": "The radiologist has identified a heart murmur in the chest X-ray. The heart appears to be enlarged, which could indicate a potential issue or condition. The lungs are also visible in the image, but no other specific findings are apparent. The radiologist should consider further examination and consultation with other medical professionals to determine the exact nature of the heart murmur and any associated risks or treatments.",
+        "processing_time_seconds": 17.587
+    },
+    {
+        "study_id": 53373452,
+        "subject_id": 14584470,
+        "image_path": "../mimic-cxr-dataset/official_data_iccv_final/files/p14/p14584470/s53373452/29bdb8bb-bacbe53c-f4a892e6-3cfc384e-bc7b3897.jpg",
+        "generated_text_moondream": "The radiologist has identified a chest X-ray showing the heart, lungs, and the cardiovascular system. The heart is located in the center of the chest, occupying a significant portion of the image. The lungs are spread out on both sides of the chest, with the right lung being slightly larger than the left. The image also shows the cardiovascular system, which includes the heart valves and blood vessels, such as the arteries and veins. The radiologist has also noted a small object near the top right of the chest, which could be a foreign object or a medical anomaly.",
+        "processing_time_seconds": 24.5208
+    }
+]
