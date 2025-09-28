@@ -1,0 +1,34 @@
+{
+    "findings": [
+        {
+            "disease": "Cardiomegaly",
+            "what-it-means": "An enlarged heart. This is not a disease in itself but is the most common radiographic sign of many underlying cardiac conditions, such as hypertensive heart disease, heart failure, and valvular disease.",
+            "why-its-common": "It is a very frequent finding in the hospitalized patient population represented in MIMIC, which has a high prevalence of chronic heart conditions.",
+            "related-terms": ["enlarged cardiac silhouette", "increased cardiothoracic ratio", "enlarged heart"]
+        },
+        {
+            "disease": "Pulmonary Edema",
+            "what-it-means": "Excess fluid in the lungs, which is a classic sign of the heart failing to pump blood effectively. It is the primary radiographic evidence for acute congestive heart failure.",
+            "why-its-common": "Acute decompensated heart failure is a very common reason for hospital admission and for ordering a chest X-ray.",
+            "related-terms": ["pulmonary vascular congestion", "vascular congestion", "cephalization", "Kerley B lines"]
+        },
+        {
+            "disease": "Congestive Heart Failure (CHF)",
+            "what-it-means": "This is the clinical diagnosis for heart failure. While radiologists describe findings like \"pulmonary edema,\" they will often explicitly mention \"congestive heart failure\" or its acronym \"CHF\" in the \"Impression\" section of the report, especially when the signs are clear.",
+            "why-its-common": "As a primary diagnosis for millions of patients, it's frequently mentioned when correlating the clinical history with the radiographic findings.",
+            "related-terms": ["CHF", "heart failure", "decompensated heart failure"]
+        },
+        {
+            "disease": "Pleural Effusion",
+            "what-it-means": "Excess fluid in the space between the lungs and the chest wall. While it can have non-cardiac causes (like pneumonia or cancer), it is one of the most common findings alongside cardiomegaly and pulmonary edema in patients with heart failure.",
+            "why-its-common": "It's a key indicator of fluid overload in the body, a hallmark of decompensated heart failure. It is often described as bilateral pleural effusions in cardiac cases.",
+            "related-terms": ["effusion", "effusions", "blunting of the costophrenic angle"]
+        },
+        {
+            "disease": "Atherosclerosis / Atherosclerotic Disease",
+            "what-it-means": "Hardening and calcification of the arteries, particularly the aorta. On a chest X-ray, this is seen as calcifications or changes in the shape of the aorta.",
+            "why-its-common": "Atherosclerosis is a widespread condition, especially in the older patient population in MIMIC. Radiologists frequently comment on the state of the aorta.",
+            "related-terms": ["atherosclerotic calcification", "tortuous aorta", "aortic ectasia", "calcified aortic knob"]
+        }
+    ]
+}
