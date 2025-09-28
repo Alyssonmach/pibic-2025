@@ -9,7 +9,6 @@ import nltk
 from nltk.translate.meteor_score import meteor_score
 from typing import List, Dict
 
-# Baixa o recurso 'wordnet' para o NLTK, necessário para o METEOR.
 try:
     nltk.data.find('corpora/wordnet')
 except:
@@ -68,7 +67,6 @@ def calculate_evaluation_metrics(df_merged: pd.DataFrame, generated_text_col: st
         "Avg. Doc Semantic Sim.": np.mean(semantic_scores)
     }
 
-
 def main():
     """
     Main function to run the evaluation of generated medical reports.
@@ -124,6 +122,11 @@ def main():
         
     df_results = pd.DataFrame(final_results).T
     df_results = df_results.applymap(lambda x: f"{x:.2%}")
+
+    pd.set_option('display.max_rows', None)
+    pd.set_option('display.max_columns', None)
+    pd.set_option('display.width', 1000) # Set a wide width
+    pd.set_option('display.colheader_justify', 'center')
     
     print(df_results)
     print("\n" + "="*70)
