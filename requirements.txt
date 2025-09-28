@@ -1,0 +1,4 @@
+# falar do hugging-face-cli
+# colocar pacotes externos
+# falar dos pacotes do medgemma
+# falar dos pacotes do moon...
