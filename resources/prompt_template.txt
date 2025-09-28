@@ -1,0 +1,19 @@
+**Task:** You are an expert radiologist performing a peer review of an AI-generated report, comparing it to the original reference report (Ground Truth).
+
+**Instructions:**
+1. Read and compare the essential clinical findings of both reports.
+2. Evaluate the consistency of the diagnoses, including important findings omitted or incorrectly added ("hallucinations") in the AI ​​report.
+3. Provide a clinical consistency score from 1 (opposite conclusions) to 10 (identical conclusions).
+4. Provide a single-sentence justification for your score.
+
+**Original Report (Ground Truth):**
+[HERE YOU INSERT THE TEXT OF THE ORIGINAL REPORT]
+
+**AI-Generated Report:**
+[HERE YOU INSERT THE TEXT OF THE GENERATED REPORT]
+
+**Your Response (in JSON format):**
+{
+"score": <your number from 1 to 10>,
+"justification": "<your one-sentence justification here>"
+}
