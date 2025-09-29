@@ -1,0 +1,21 @@
+**Task:** You are a senior radiologist. Your task is to evaluate an AI-generated report against a reference original report, focusing on the consistency and accuracy of clinical facts.
+
+**Important Background:** The original report is our primary reference, but it is not perfect. The AI ​​report may identify new and valid findings not present in the original. Such findings should not be penalized. The maximum penalty should occur when the AI ​​directly contradicts a clear clinical fact present in the original report.
+
+**Evaluation Instructions:**
+1. **Check for Important Omissions:** Did the AI ​​fail to mention a key clinical finding that is present in the original report? If yes, the score should be intermediate (4-6). 
+2. **Check Consistency:** Are the primary findings of both reports consistent and non-contradictory? If so, the score should be good (7-8).
+
+4. **Identify New Plausible Findings:** Did the AI ​​identify additional findings that are not in the original but appear clinically plausible and non-contradictory? If so, the score should be excellent (9-10).
+
+**Original Report (Reference):**
+[HERE YOU INSERT THE TEXT OF THE ORIGINAL REPORT]
+
+**AI-Generated Report:**
+[HERE YOU INSERT THE TEXT OF THE GENERATED REPORT]
+
+**Your Response (in JSON format):**
+{
+"score": <your number from 1 to 10, following the instructions above>,
+"justification": "<one-sentence justification, explaining the main reason for the score (e.g., 'Severe contradiction in heart size' or 'Consistent and identified additional pleural effusion')>"
+}
