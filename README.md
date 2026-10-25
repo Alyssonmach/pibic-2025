@@ -1,6 +1,6 @@
 # PIBIC 2025 — geração e avaliação de laudos radiológicos
 
-Repositório de pesquisa para preparar dados de radiografias de tórax, recuperar laudos semelhantes e comparar textos gerados pelos modelos MedGemma e Moondream com laudos de referência.
+Repositório com os dados de um projeto de pesquisa, envolvendo a preparação de dados de radiografias de tórax, recuperação de laudos semelhantes e comparação de textos gerados pelos modelos MedGemma e Moondream com laudos de referência.
 
 ## Organização
 
