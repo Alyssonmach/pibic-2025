@@ -1,4 +1,18 @@
-# falar do hugging-face-cli
-# colocar pacotes externos
-# falar dos pacotes do medgemma
-# falar dos pacotes do moon...
+# Dependências usadas pelos scripts e notebooks do projeto.
+# Instale o PyTorch apropriado ao seu hardware antes ou depois desta lista:
+# https://pytorch.org/get-started/locally/
+bert-score
+huggingface_hub
+jupyter
+nltk
+numpy
+opencv-python
+pandas
+Pillow
+rouge-score
+scikit-learn
+sentence-transformers
+torch
+tqdm
+transformers
+accelerate
